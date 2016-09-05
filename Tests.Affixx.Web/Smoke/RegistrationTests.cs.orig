@@ -1,0 +1,85 @@
+﻿using NUnit.Framework;
+using Tests.Affixx.Web.Smoke.Helpers;
+
+namespace Tests.Affixx.Web.Smoke
+{
+    [TestFixture]
+    [Category("Web")]
+    public class RegistrationTests
+    {
+        private static Browser browser = null;
+
+        #region setup
+
+        [OneTimeSetUp]
+        public void FixtureSetup()
+        {
+            browser = new Browser();
+            browser.NavigateTo(Settings.Url);
+        }
+
+        [OneTimeTearDown]
+        public void FixtureTeardown()
+        {
+            browser.Dispose();
+        }
+
+        [SetUp]
+        public void Setup()
+        {
+            browser.SetTestTitle(TestContext.CurrentContext.Test.Name);
+        }
+
+        [TearDown]
+        public void Teardown()
+        {
+            browser.DeleteAccount();
+        }
+
+        #endregion
+
+        [Test]
+        public void EmailRegistration()
+        {
+            browser.RegisterViaEmail();
+            Assert.That(browser.GetElement("div.alert-success"), Is.Not.Null, "Should see a success confirmation message");
+        }
+
+        [Test]
+        public void EmailRegistrationWithEmailConfirmation()
+        {
+            browser.RegisterViaEmail();
+            browser.ConfirmEmail();
+
+            var successDiv = browser.GetElement("div.alert-success");
+            Assert.That(successDiv, Is.Not.Null, "Should see a success confirmation message");
+            Assert.That(successDiv, Does.Contain("Thank you for confirming the email"), "Should see a success confirmation message");
+        }
+
+        [Test]
+        public void FacebookRegistration()
+        {
+            browser.RegisterViaFacebook();
+            Assert.That(browser.GetElement("div.alert-success"), Is.Not.Null, "Should see a success confirmation message");
+        }
+
+        [Test]
+        public void ChangePassword()
+        {
+            browser.RegisterViaEmail();
+
+            browser.ClickOn("a[href*='my/account']");
+            browser.TypeIn("#OldPassword", Settings.Signup.Password);
+            browser.TypeIn("#NewPassword", Settings.Signup.PasswordNew);
+            browser.TypeIn("#NewPasswordConfirm", Settings.Signup.PasswordNew);
+            browser.ClickOn("input[value='Change']");
+
+            Assert.That(browser.GetElement("div.alert-success"), Is.Not.Null, "Should see a success confirmation dialog");
+
+            browser.ClickOn("#logoutForm");
+            browser.LoginViaEmail(Settings.Signup.PasswordNew);
+
+            Assert.That(browser.GetElement("div.alert-success"), Is.Not.Null, "Should see a success confirmation message");
+        }
+    }
+}
