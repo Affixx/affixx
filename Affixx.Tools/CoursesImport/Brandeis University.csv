@@ -1,0 +1,940 @@
+Group,Course Name,Course Code
+Biochemistry,Advanced Introductory Biochemistry,BCHM 100
+Biochemistry,Advanced Biochemistry: Enzyme Mechanics,BCHM 101
+Biochemistry,Quantitative Approaches to Biochemical Systems,BCHM 102
+Biochemistry,Advanced Biochemistry: Cellular Information Transfer Mechanisms,BCHM 103
+Biochemistry,Classical and Statistical Thermodynamics,BCHM 104
+Biochemistry,Biochemistry Laboratory,BCHM 155
+Biochemistry,Molecular Mechanisms of Disease,BIBC 126
+Biochemistry,Molecular Biology,BIOL 105
+Biochemistry,Chemical Biology: Medicinal Enxymology,CBIO 106
+Biochemistry,Advanced Organic Chemistry: Structure,CHEM 130
+Biochemistry,Principles of Neuroscience,NBIO 140
+Biochemistry,Biological Physics,PHYS 105
+Biochemistry,Project Laboratory in Microbiology,BIOL 159
+Biochemistry,Special Topics in Inorganic Chemistry: Introduction to X-ray Structure Determination,CHEM 129
+Biochemistry,Advanced Organic Chemistry: Synthesis,CHEM 134
+Biochemistry,Introduction to Research in Biochemistry and Biophysics 1,BCBP 300
+Biochemistry,Quantitative Biology Instrumentation Laboratory,QBIO 120
+Biochemistry,Readin in Macromolecular Structure-Function Analysis,BCBP 200
+Biochemistry,Chemical Biology,CBIO 101
+Biology,Genetics and Genomics,BIOL 14
+Biology,Cells and Organisms,BIOL 15
+Biology,Evolution and Biodiveristy,BIOL 16
+Biology,Conservation Bology,BIOL 17
+Biology,General Biology Laboratory,BIOL 18
+Biology,Ecology,BIOL 23
+Biology,Field Biology,BIOL 32
+Biology,Physiology,BIOL 43
+Biology,Biostatistics,BIOL 51
+Biology,Advancements in S.T.E.M through Molecular Biology,BIOL 62
+Biology,Pathogens Human Disease,BISC 5
+Biology,Molecular Mechanisms in Disease,BIBC 126
+Biology,Advanced Cell Biology,BIOL 100
+Biology,Molecular Biotechnology,BIOL 101
+Biology,Structural Molecular Biology,BIOL 102
+Biology,Molecular Biology,BIOL 105
+Biology,Data Analysis and Statistics Workshop,BIOL 107
+Biology,Molecular Genetics,BIOL 122
+Biology,Human Genetics,BIOL 128
+Biology,Molecular Pharmacology,BIOL 149
+Biology,"Enviromental Epidemiology: Ticks, Mosquitoes and Soil Amoebae in the Woods of New England",BIOL 154
+Biology,Project Laboratory in Biotechnology,BIOL 156
+Biology,Project Laboratory in Microbiology,BIOL 159
+Biology,Human Reproductive and Developmental Biology,BIOL 160
+Biology,Growth Control and Cancer,BIOL 172
+Biology,Chemical Biology: Medicinal Enzymology,CBIO 106
+Biology,Principles of Neuroscience,NBIO 140
+Biology,Cellular Mechanisms of Neuronal Excitability and Plasticity,NBIO 148
+Biology,Cellular and Network Mechanisms of Memory,NBIO 161
+Biology,Introduction to Genetic Counseling,BIOL 202
+Biology,The Molecular Basis of Genetic Disease,BIOL 203
+Biology,Clinical Genetics 1,BIOL 204
+Biology,Counceling Theory and Techniques,BIOL 205
+Biology,Genetic Counseling: Case Conferences and Family Counceling,BIOL 207
+Biology,Genetic Counceling Research 2,BIOL 213
+Biology,Genetic Counceling Process Group,BIOL 214
+Biology,Clinical Genetics,BIOL 220
+Biology,American Health Policy and Practice and the Delivery of Genomics Health Care,BIOL 235
+Biology,Topics in Molecular Genetics and Development,BIOL 305
+Biology,Mechanisms of Recombination,BIOL 316
+Biology,Graduate Student Research Seminar,BIOL 350
+Biology,Biotechnology Proseminar,BIOT 200
+Biology,Statistics for Economic Analysis,BIOL 83
+Biology,"Introduction to Epidemiology, Biostatistics and Population Health",HSSP 100
+Biology,Statistics,PSYC 51
+Biology,Advanced Introductory Biochemistry,BCHM 100
+Biology,Computational Molecular Biology,COSI 178
+Biology,"Citizen Science: Bridging Science, Education and Advocacy",EBIO 33
+Biology,Population Genetics/Genomics,NBIO 123
+Biology,Sleep,NBIO 142
+Biology,Systems Neuroscience,NBIO 145
+Biology,Business of Biotechnology,BIOT 101
+Biology,Fundamentals of Management for Biotechnology,BIOT 203
+Biology,Responsible Conduct of Science,CONT 300
+Biology,Human Osteology,ANTH 116
+Biotechnology,Business Biotechnology,BIOT 210
+Biotechnology,Fundamentals of Management for Biotechnology,BIOT 203
+Biotechnology,Responsible Conduct of Science,CONT 300
+Biotechnology,Introductory Biochemistry,BCHM 100
+Biotechnology,Biochemistry Laboratory,BCHM 122
+Biotechnology,Advanced Cell Biology,BIOL 100
+Biotechnology,Managing Global Human Capital,BUS 226
+Biotechnology,Branding Strategy,BUS 254
+Biotechnology,Chemical Biology: Medicinal Enzymology,CBIO 106
+Biotechnology,Biotechnology Proseminar,BIOT 200
+Biotechnology,Molecular Mechanisms of Disease,BIBC 126
+Biotechnology,Molecular Biotechnology,BIOL 101
+Biotechnology,Structural Molecular Biology,BIOL 102
+Biotechnology,Project Laboratory in Biotechnology,BIOL 156
+Biotechnology,Entrepreneurship,BUS 230
+Biotechnology,Social Media and Advertising,BUS 257
+Biotechnology,Sales and Sales Management,BUS 258
+Business,Quantitative Methods in Business,BUS 1
+Business,Financial Accounting,BUS 6
+Business,Functions of the Capitalist Enterprise,BUS 10
+Business,Introduction to Finance,BUS 71
+Business,Work in the Global Business Environment,BUS 89
+Business,Intermediate Financial Accounting,BUS 113
+Business,Managerial Accounting,BUS 114
+Business,Intermediate Corporate Finance,BUS 117
+Business,Organizational Behavior in Business,BUS 120
+Business,Entrepreneurship and Innovation,BUS 130
+Business,Real Estate and Society,BUS 135
+Business,Marketing Management,BUS 152
+Business,Marketing Research,BUS 153
+Business,Consumer Behavior,BUS 155
+Business,Competitive Strategy,BUS 160
+Business,Operations Management,BUS 172
+Business,Supply Chain Management,BUS 174
+Business,A Survey of Economics,ECON 2
+Business,Introduction to Microeconomics,ECON 10
+Business,Political Economy of the Third World,AAAS 126
+Business,"Business, Culture and Society",ANTH 70
+Business,Sailing the Wine Dark Sea: Global Trade in the Ancient Mediterranean,CLAS 149
+Business,Introduction to Macroeconomics,ECON 20
+Business,American Health Care,HS 104
+Business,Wealth and Poverty,HS 110
+Business,Managing Medicine,HSSP 106
+Business,American Health Care: Law and Policy,LGLS 114
+Business,Science on Trial,LGLS 138
+Business,Sociology of Work and Gender,SOC 117
+Business,International Macroeconomics and Finance,ECON 161
+Business,Financial Economics,ECON 171
+Business,Business Law ,LGLS 189
+Business,Communication and Media,ANTH 26
+Business,Business Chinese and Culture,CHIN 106
+Business,"Money, Markets and Society in the Ancient Mediterrenean",CLAS 121
+Business,American Legal History 2,HIST 160
+Business,"Health Care Technology: Evaluating Emerging Medical Services, Drugs and Devices",HSSP 107
+Business,Business Ethics,PHIL 25
+Business,International Political Economy,POL 172
+Business,Social Psychology,PSYC 348
+Business,Social Class and Social Change,SOC 112
+Business,Globalization and the Media,SOC 120
+Business,Culture of Consumption,SOC 150
+Business,"Environmental Movements: Organizations, Networks and Partnerships",SOC 175
+Business,The Business of Show Business,THA 138
+Business,"Louis Brandeis: Law, Business and Politics",AMST 188
+Business,"Production, Consumption and Exchange",ANTH 163
+Business,Economics and the Arts,ECON 87
+Business,Health Economics,HSSP 104
+Business,"Work, Employment and Unemployment: Sociological Approaches",SOC 116
+Chemistry,General Chemistry,CHEM 11
+Chemistry,General Chemistry Laboratory 2,CHEM 18
+Chemistry,Organic Chemistry ,CHEM 25
+Chemistry,Organic Chemistry Laboratory 1,CHEM 29
+Chemistry,Environmental Chemistry,CHEM 33
+Chemistry,Advanced Laboratory: Physical Chemistry,CHEM 59
+Chemistry,Advanced Laboratory: Materials Chemistry,CHEM 69
+Chemistry,Understanding the Chemistry of Sustainability,CHSC 41
+Chemistry,Chemical Biology: Medicinal Enzymology,CBIO 106
+Chemistry,Inorganic Chemistry 1,CHEM 121
+Chemistry,Special Topics in Inorganic Chemistry: X-Rat Structure Determination,CHEM 129
+Chemistry,Advanced Organic Chemistry: Spectrosopy,CHEM 132
+Chemistry,Advanced Organic Chemistry: Synthesis,CHEM 124
+Chemistry,Classical and Statistical Thermodynamics,CHEM 141
+Chemistry,Inorganic Chemistry,CHEM 220
+Chemistry,Organic Chemistry,CHEM 230
+Chemistry,Physical Chemistry,CHEM 240
+Chemistry,Biophysical Chemistry,CHEM 250
+Chemistry,Materials Chemistry,CHEM 260
+Chemistry,Chemistry Colloquium,CHEM 300
+Chemistry,Introductory Biochemistry,BCHM 100
+Chemistry,Advanced Biochemistry: Cellular Information Transfer Mechanisms,BCHM 103
+Chemistry,Physical Chemistry of Macromolecules 2,BCHM 104
+Chemistry,Biochemistry Laboratory,BCHM 155
+Chemistry,Scientific Data Processing in Matlab,COSI 177
+Chemistry,Quantitative Biology Instrumentation Laboratory,QBIO 120
+Chemistry,Solving Environmental Challenges: The Role of Chemistry,CHSC 3
+Chemistry,Quantitative Approaches to Biochemical Systems,BCHM 102
+Chemistry,Advanced Biochemistry: Enzyme Mechanisms,BCHM 101
+Chemistry,Computational Molecular Biology,COSI 178
+Computer Science,Introduction to Computer,COSI 2
+Computer Science,Programming in Java and C,COSI 11
+Computer Science,Data Structure and the Fundamentals of Computing,COSI 12
+Computer Science,Discrete Structures,COSI 29
+Computer Science,Fundamentals of Artificial Intelligence,COSI 101
+Computer Science,Software Engineering for Scalability,COSI 105
+Computer Science,Topics in Computational Cognitive Science,COSI 111
+Computer Science,"Modal, Temporal and Spatial Logic for Language",COSI 112
+Computer Science,Fundamentals of Computational Linguistics,COSI 114
+Computer Science,Spoken Dialog Design,COSI 115
+Computer Science,Computer Suppurted Cooperation,COSI 118
+Computer Science,Topics in Computer Systems,COSI 120
+Computer Science,Structure and Interpretation of Computer Programs,COSI 121
+Computer Science,Database Management Systems,COSI 127
+Computer Science,Introduction to Big Data Analysis,COSI 129
+Computer Science,Introduction to Theory of Computation,COSI 130
+Computer Science,Information Retrieval,COSI 132
+Computer Science,Operating Systems,COSI 131
+Computer Science,Networked Information Systems,COSI 132
+Computer Science,Statistical Approaches to Natural Language Processing  ,COSI 134
+Computer Science,Automated Speech Recognition,COSI 136
+Computer Science,Information Extraction,COSI 137
+Computer Science,Natural Language Annotation for Machine Learning,COSI 140
+Computer Science,Principles of Computer System Design,COSI 146
+Computer Science,Mobile Application Development,COSI 153
+Computer Science,The JBS Incubator,COSI 154
+Computer Science,Introduction to 3-D Animation,COSI 164
+Computer Science,Software Entrepreneurship,COSI 165
+Computer Science,Capstone Project for Software Engineering,COSI 166
+Computer Science,Software Engineering Laboratory,COSI 167
+Computer Science,Data Compression and Multimedia Processing,COSI 175
+Computer Science,Scientific Data Processing in Matlab,COSI 177
+Computer Science,Computational Molecular Biology,COSI 178
+Computer Science,Advanced Topics in Computer Supported Cooperation,COSI 215
+Computer Science,Topics in Adaptive Systems,COSI 217
+Computer Science,Natural Language Processing Systems,COSI 217
+Computer Science,IT Entrepreneurship Practicum 1,COSI 320
+Computer Science,Probability,MATH 36
+Computer Science,Introduction to Algebra Part 1,MATH 100A
+Computer Science,Introduction to Number Theory,MATH 108
+Computer Science,Electronics Laboratory 1,PHYS 29
+Computer Science,"Formal Semantics: Truth, Meaning and Language",LING 130
+Computer Science,Introduction to Algebra Part 2,MATH 100B
+Computer Science,Mathematical Logic,PHIL 106
+Economics,A Survey of Economics,ECON 2
+Economics,Introduction to Microeconomics,ECON 10
+Economics,Introduction to Macroeconomics,ECON 20
+Economics,The Global Economy,ECON 28
+Economics,The Economics of China,ECON 30
+Economics,European Economic History,ECON 45
+Economics,Microeconomic Theory ,ECON 80
+Economics,Macroeconomic Theory,ECON 82
+Economics,Statistics for Economic Analysis,ECON 83
+Economics,Economics and the Arts,ECON 87
+Economics,Public Sector Economics,ECON 134
+Economics,International Trade Theory,ECON 160
+Economics,International Macroeconomics and Finance,ECON 161
+Economics,Financial Economics,ECON 171
+Economics,Central Banking: Theory and Policy,ECON 173
+Economics,Game Theory and Economic Applications,ECON 181
+Economics,Econometrics,ECON 184
+Economics,Global Economic Environment,ECON 201
+Economics,Applied International Macroeconomics,ECON 202
+Economics,Managerial Economics,ECON 207
+Economics,Behavioral Finance and Economics,ECON 209
+Economics,Foundations of Statistics,ECON 210
+Economics,Applied Econometrics,ECON 213
+Economics,Central Banking Seminar,ECON 235
+Economics,Forecasting in Finance and Economics,ECON 250
+Economics,Asia: Center of World Economy,ECON 253
+Economics,Empirical Analysis of Trade Policy,ECON 261
+Economics,Economic Development Strategies,ECON 270
+Economics,Challenges in the Global Economy: International Trade and Development,ECON 282
+Economics,Challenges in the Global Economy: Macroeconomic Policy and Finance,ECON 282
+Economics,Advanced Microeconomics 1,ECON 301
+Economics,Emperical Methods for Dynamic Economic Models,ECON 307
+Economics,Financial Accounting,BUS 6
+Economics,Functions of the Capitalist Enterprise,BUS 10
+Economics,Emperical Analysis of Trade Policy,BUS 261
+Economics,Corporate Finance,FIN 202
+Economics,American Health Care,HS 104
+Economics,Wealth and Poverty,HS 110
+Economics,International Political Economy,POL 172
+Economics,U.S Foreign Economic Policy,POL 173
+Economics,Economics of Third World Hunger,AAAS 60
+Economics,Health Economics,HSSP 104
+Economics,"Work, Emplyment and Unemployment: Sociological Approaches",SOC 116
+Economics,"Economics of Gender, Health and Population",WMGS 168
+English,Introduction to Literary Studies,ENG 1
+English,Poetry: A Basic Course,ENG 10
+English,Close Reading: Theory and Practice,ENG 11
+English,"Bollywood: Popular Film, Genre and Society",ENG 20
+English,Adolescent Literature,ENG 21
+English,Shakespeare,ENG 33
+English,Coming of Age in Literature,ENG 40A
+English,"The Birth of the Short Story: Gods, Ghosts, Lunatics",ENG 40B
+English,"Pilgrims, Queens and the Garden: English Literarture from Chaucer to Milton",ENG 43
+English,American Independent Film,ENG 50
+English,Modern Poetry,ENG 67
+English,"Writing the Nation: James Baldwin, Phillip Roth, Toni Morrison",ENG 57
+English,"The Victorian Novel: Secrets, Lies and Monsters",ENG 75
+English,Directed Writing: Beginning Screenplay,ENG 79
+English,Creating Writing Senior Honors Project,ENG 96
+English,Senior Essay,ENG 97
+English,Critical Race Theory,ENG 141
+English,Hell: The Poetry,ENG 149
+English,Secong Language Writing Instruction: Theory and Practice,ENG 108
+English,Directed Writing: Poetry,ENG 109A/119
+English,Directed Writing: Short Fiction,ENG 109B
+English,Fictions of Liberty: Europe in a Revolutionary Age,ENG 115
+English,Novels of William Faulkner,ENG 117
+English,"Romanticism 2: Byron, Shelley and Keats",ENG 125
+English,The Novel in India,ENG 127A
+English,"Migrating Bodies, Migrating Texts",ENG 127B
+English,Alternative Worlds: Modern Utopian Texts,ENG 128
+English,Directed Writing: Creative Nonfiction,ENG 129
+English,Subjectivity,ENG 137
+English,Toni Morrison,ENG 138
+English,Intermediate Screenwriting,ENG 139
+English,Fim Noir,ENG 147
+English,Writing for Television,ENG 149
+English,"Out of this World: Science Fiction's Cyborgs, Time Travellers and Space Invaders",ENG 150
+English,Performance Studies,ENG 151
+English,American Women Poets,ENG 157
+English,Hitchcock's Movies,ENG 177
+English,The Modern American and Short Stiry,ENG 180
+English,Approaches to Literary and Culture Studies,ENG 200
+English,Realism,ENG 230
+English,Performing the Early Modern Self,ENG 231
+English,Capitalism and the American Novel,ENG 238
+English,Reading the Black Translation,ENG 237
+English,Naturalism Between Realism and Modernism,ENG 245
+English,Master's Directed Research,ENG 301
+English,Proseminar,ENG 350
+English,Directed Research,ENG 352
+English,Dissertation Research,ENG 402
+English,Afro-American Literature of the Twentieth Century,AAAS 79
+English,Introduction to African Literature,AAAS 132
+English,"British, Irish and Postcolonial Theater",THA 76
+English,European Cultural Studies Proseminar: Modernism,ECS 100
+English,Viewing Medicine and Health Policy through the Lens of Literature ,HSSP 118
+English,Theater Texts and Theory 1,THA 11A
+English,The Western Canon,HUM 10
+English,The Literature and the Caribbean,AAAS 133
+English,Playwriting,THA 71
+English,True Crime and American Culture,AMST 177
+English,Jewish Graphic Novels,NEJS 176
+English,Theater Texts ad Theory 2,THA 11B
+"Health: Science, Society and Policy","Introduction to Epidemiology, Biostatistics and Population Health",HSSP 100
+"Health: Science, Society and Policy",Global Perspective on Health,HSSP 102
+"Health: Science, Society and Policy",Managing Medicine,HSSP 106
+"Health: Science, Society and Policy","Health Care Technology: Evaluating Emerging Medical Services, Drugs and Devices",""
+"Health: Science, Society and Policy",Integrative Seminar on Health,HSSP 110
+"Health: Science, Society and Policy",Racial/Ethnic and Gender Inequalities in Health and Health Care,HSSP 114
+"Health: Science, Society and Policy","Perspectives on Behavioral Health: Alcohol, Drugs and Mental Health",HSSP 115
+"Health: Science, Society and Policy",Viewing Medicine and Health Policy Through the Lens of Literature,HSSP 118
+"Health: Science, Society and Policy",Special Topics in Public Health: U.S. History and Policy,HSSP 135
+"Health: Science, Society and Policy",The Policy Context of Families of Children with Disabilities,HSSP 148
+"Health: Science, Society and Policy",Sociology of Disability,HSSP 192
+"Health: Science, Society and Policy",Disability Policy,HSSP 128
+"Health: Science, Society and Policy",American Health Care,HS 104
+"Health: Science, Society and Policy",American Health Care: Law and Policy,LGLS 114
+"Health: Science, Society and Policy","Health, Community and Society",SOC 191
+"Health: Science, Society and Policy",Advanced Introductory Biochemisry,BCHM 100
+"Health: Science, Society and Policy",Molecular Mechanisms of Disease,BIBC 14
+"Health: Science, Society and Policy",Genetics and Genomics,BIOL 14
+"Health: Science, Society and Policy",Cells and Organisms,BIOL 15
+"Health: Science, Society and Policy",Evolution and Biodiversity,BIOL 16
+"Health: Science, Society and Policy",Physiology,BIOL 42
+"Health: Science, Society and Policy",Comparative Vertebrate Anatomy,BIOL 43
+"Health: Science, Society and Policy",Diet and Health,BIOL 55
+"Health: Science, Society and Policy",Human Genetics,BIOL 128
+"Health: Science, Society and Policy",General Nicrobiology,BIOL 132
+"Health: Science, Society and Policy","Environmental Epidemiology: Ticks, Mosquitos and Soil Amoebae in the Woods of New England",BIOL 154
+"Health: Science, Society and Policy",Human Reproductive and Developmental Biology,BIOL 160
+"Health: Science, Society and Policy",Pathogens and Human Disease,BISC 5
+"Health: Science, Society and Policy",Chemical Biology: Medicinal Enzymology,CBIO 106
+"Health: Science, Society and Policy",Principles of Neuroscience,NBIO 140
+"Health: Science, Society and Policy",Systems Neuroscience,NBIO 145
+"Health: Science, Society and Policy",The Neurobiology of Human Disease,NBIO 146
+"Health: Science, Society and Policy",Human Neuropsychology,NPSY 199
+"Health: Science, Society and Policy",Aging in Cross Cultural Perspective,ANTH 111
+"Health: Science, Society and Policy","Medicine, Body and Culture",ANTH 127
+"Health: Science, Society and Policy",Neuroethics,PHIL 123
+"Health: Science, Society and Policy",Developmental Psychology,PSYC 33
+"Health: Science, Society and Policy",Life Span Development: Early and Middle Adulthood,PSYC 130
+"Health: Science, Society and Policy",Disorders of Childhood,PSYC 169
+"Health: Science, Society and Policy",Sociology of Body and Health,SOC 189
+"Health: Science, Society and Policy",Sexuality and Healthcare,WMGS 156
+"Health: Science, Society and Policy",Science on Trial,LGLS 138
+"Health: Science, Society and Policy",Statistics for Economic Analysis,ECON 83
+"Health: Science, Society and Policy",Statistics,PSYC 51
+"Health: Science, Society and Policy",Observing the Social World: Doing Qualitative Sociology,SOC 118
+"Health: Science, Society and Policy",Applied Research Methods,SOC 182
+"Health: Science, Society and Policy",Biomedical Ethics,PHIL 23
+"Health: Science, Society and Policy",Medicine and Religion,ANTH 164
+"Health: Science, Society and Policy",Sociology of Mental Health and Illness,SOC 194
+Social Policy and Management,American Health Care,HS 104
+Social Policy and Management,Wealth and Povety,HS 110
+Social Policy and Management,Social Justice and the Obama Administration,HS 200
+Social Policy and Management,Contemporary Issues in Africa's Development,HS 203
+Social Policy and Management,Ecology of Health ,HS 207
+Social Policy and Management,Coexsistence and Conflict: Theory and Analysis,HS 210
+Social Policy and Management,Corporate Finance,HS 215
+Social Policy and Management,Eli J. Segal Seminar in Citizen Leadership,HS 217
+Social Policy and Management,Communications for Impact,HS 218
+Social Policy and Management,Gender and the Environment,HS 224
+Social Policy and Management,Fundraising and Development,HS 225
+Social Policy and Management,Social Entrepreneurship,HS 228A
+Social Policy and Management,The Paulo Freire Seminar,HS 228F
+Social Policy and Management,SID Field Practicum Course,HS 230A
+Social Policy and Management,Coexsitence Research Methods,HS 230F
+Social Policy and Management,International Health Systems and Development ,HS 236
+Social Policy and Management,Evaluating Survey Data: Questioning Answers,HS 238
+Social Policy and Management,Professional Writing,HS 240
+Social Policy and Management,Climate Change and Livelihoods,HS 241
+Social Policy and Management,Development Aid,HS 242
+Social Policy and Management,Responsible Negotiation,HS 244A
+Social Policy and Management,Interdisciplinary Applied Research Design and Development,HS 244F
+Social Policy and Management,Economics 1,HS 245
+Social Policy and Management,Statistics,HS 246
+Social Policy and Management,Evaluation for Managers,HS 247
+Social Policy and Management,Economics 2,HS 248
+Social Policy and Management,Financial Accounting,HS 250A
+Social Policy and Management,Dynamics of Intercultural Communication,HS 250F
+Social Policy and Management,Critical Approaches to Diversity,HS 251
+Social Policy and Management,Strategic Management,HS 252
+Social Policy and Management,Leadership and Organizational Behavior,HS 253
+Social Policy and Management,Human Resources Management,HS 254
+Social Policy and Management,Conflict Resolution by Negotiation,HS 257
+Social Policy and Management,Operations Management,HS 258
+Social Policy and Management,"Development, Aid and Coexistence",HS 260
+Social Policy and Management,Introduction to Economics for Development Practitioners,HS 266
+Social Policy and Management,Business Law,HS 270
+Social Policy and Management,Social Psychological Approaches to Local and International Conflict,HS 271
+Social Policy and Management,Responsible Leadership,HS 272
+Social Policy and Management,Law and Social Justice: Gender Equity policies and Litigation,HS 273
+Social Policy and Management,Directed Readings in Sustainable Development,HS 274
+Social Policy and Management,Introduction to Planning and Implementation,HS 277
+Social Policy and Management,Planning and Implementation,HS 279
+Social Policy and Management,Environmental Impact Assessment,HS 282
+Social Policy and Management,Gender and Development,HS 283
+Social Policy and Management,Gender Analysis,HS 284
+Social Policy and Management,Marketing,HS 285
+Social Policy and Management,Economic Analysis for Managers,HS 290
+Social Policy and Management,Critical Thinking and Advanced Professional Writing,HS 292
+Social Policy and Management,Introduction to Geographic Information Systems ,HS 297F
+Social Policy and Management,Historical and Contemporary Developments in Social Welfare,HS 303
+Social Policy and Management,Reproductive and Sexual Health and Development,HS 304
+Social Policy and Management,Survey Design and Data Analysis for Development,HS 306
+Social Policy and Management,Introduction to Education and Development,HS 310
+Social Policy and Management,Indigenous Peoples and Development: Challenges and Synergies,HS 313
+Social Policy and Management,"Ethics, Rights and Development",HS 319
+Social Policy and Management,"Social Experimentation in Child, Youth and Family Policymaking",HS 326
+Social Policy and Management,Using Health Information for Health System Improvement,HS 327
+Social Policy and Management,Epidemiology,HS 329
+Social Policy and Management,Research Methods and Evaluation,HS 223
+Social Policy and Management,Heller MPP Capstone Seminar,HS 336
+Social Policy and Management,Sustainable International Development Advanced Study Seminar,HS 228
+Social Policy and Management,Public Finance and Budgeting,HS 341
+Social Policy and Management,Introduction to Health Economics,HS 349
+Social Policy and Management,Health and Law Ethics 1,HS 357
+Social Policy and Management,Health and Law Ethics 2,HS 358
+Social Policy and Management,Working with National Data Sets to Inform Policy Analysis and Recommendations,HS 367
+Social Policy and Management,Economic Theory and Social Policy,HS 372
+Social Policy and Management,Research Methods,HS 401
+Social Policy and Management,Applied Regression Analysis,HS 404
+Social Policy and Management,Applied Econometrics,HS 409
+Social Policy and Management,Development Theory and Social Policy,HS 435
+Social Policy and Management,Policy and Program Implementation,HS 472
+Social Policy and Management,"Contemporary Issues in the Management of Child, Youth and Family Services",HS 511
+Social Policy and Management,Issues in National Health Policy,HS 513
+Social Policy and Management,Management of Health Care Organizations,HS 518
+Social Policy and Management,Organizational Theory and Behavior,HS 526
+Social Policy and Management,Law and Social Justice: Constructions of Race and Ethnicity and Their Consequences,HS 528
+Social Policy and Management,"Diversity, Inclusion and Equity in Social Policy",HS 529
+Social Policy and Management,Assets and Social Policy,HS 543
+Social Policy and Management,Issues in Substance Abuse Treatment,HS 586
+Social Policy and Management,"Children, Youth and Families Doctoral Seminar",HS 602
+Social Policy and Management,Health Policy Doctoral Seminar,HS 603
+Social Policy and Management,Assets and Inequalities,HS 604
+Social Policy and Management,Behavioral Health Doctoral Seminar,HS 605
+Social Policy and Management,Global Health and Development Doctoral Seminar,HS 606
+Social Policy and Management,"Disability, Health and Disparities Research Doctoral Seminar",HS 607
+Social Policy and Management,Relational Coordination Master Class,HS 611
+History,Not Even Past: History for the Global Citizen,HIST 10
+History,History of the United States: 1607-1865,HIST 51
+History,Europe from 1789 to the Present,HIST 52
+History,World History to 1960,HIST 56
+History,History of South Asia,HIST 66
+History,"Latin America and Caribbean History 1: Colonialism, Slavery, Freedom",HIST 71
+History,Introduction to East Asian Civilization,HIST 80A
+History,East Asia: 19th Century to the Present,HIST 80B
+History,Roman History to 455 CE,HIST 103
+History,The Civilization of the High and Late Middle Ages,HIST 110
+History,The Crusades and the Expansion of Medieval Europe,HIST 112
+History,Britian in the Later Middle Age,HIST 120
+History,Reformation Europe (1400-1600),HIST 123
+History,Women in Christianity: A Transitional Modern History,HIST 129
+History,Hitler's Europe in Film,HIST 131
+History,Rights and Revolutions: History of Natural Rights,HIST 133
+History,Global War and Revolutions in the 18th Century,HIST 136
+History,History of Sexualities in Europe,HIST 142
+History,War in European History,HIST 145
+History,Imperial Russia: From Westernization to Globalization,HIST 147A
+History,20th Century Russia,HIST 147B
+History,"American History, American Literature",HIST 152
+History,American Legal History 1,HIST 160A
+History,American Legal History 2,HIST 160B
+History,Writing on the Wall: Histories of Graffiti in the Americas,HIST 162
+History,"The American Century: The U.S. and the World, 1945 to the Present",HIST 164
+History,World War 2,HIST 166
+History,America in Progressive Era: 1890-1920,HIST 168
+History,History Lab: Research and Writing in American History,HIST 174
+History,Latinos in the U.S.,HIST 171
+History,Britain and India: Connected Histories,HIST 178
+History,"Labor, Gender and Exchange in the Atlantic World, 1600-1850",HIST 179
+History,The Global Opium Trade: 1755-Present,HIST 180
+History,"Red Flags/ Black Flags: Marxism vs. Anarchism, 1845-1968",HIST 181
+History,Modern Chima,HIST 182
+History,"The China Outside China: Hong King, Taiwan and Diaspora in the Making of Modern China",HIST 185
+History,American Politics Thougt: From the 1950s to the Present,HIST 196
+History,Major Problems in American Legal History,HIST 201
+History,Empires: Boundaries and Belonging,HIST 209
+History,"The World Between the Wars, 1919-1939",HIST 208
+History,Readings in History,HIST 320
+History,Introduction to African History,AAAS 115
+History,"Race, Sex and Colonialism",AAAS 135
+History,#BlackLivesMatter: The Struggle for Civil Rights from Reconstruction to the Present,AAAS 156
+History,The Black Intellectual Tradition,AAAS 168
+History,Hollywood and American Culture,AMST 35
+History,American Environmental History,AMST 30
+History,The Eastern Forest: Paleoecology to Policy,AMST 105
+History,Survey of Greek History: Bronze Age to 323 BCE,CLAS 100
+History,Topics in Greek and Roman History,CLASS 115
+History,European Economic History,ECON 45
+History,Islam: Civilization and Institutions,IMES 104
+History,Jewish History: From Ancient to Modern Worlds,NEJS 6
+History,The Destruction of European Jewry,NEJS 37
+History,The Modern Jewish Experience,NEJS 135
+History,Under Crescent and Cross: The Jews in the Middle Ages,NEJS 140
+History,History of the State of Israel,NEJS 145
+History,Inside Nazi Germany: Social and Political History of the Third Reich,NEJS 148
+History,The Making of the Modern Middle East,NEJS 185
+History,"The Rise and Decline of the Ottoman Empire, 1300-1800",NEJS 188
+History,The American Presidency,POL 113
+International Business,Analyzing Big Data 1,BUS 211
+International Business,Analyzing Big Data 2,BUS 212
+International Business,Fundamentals of Organizational Behavior,BUS 219
+International Business,Global Dexterity,BUS 222
+International Business,Launching Your Global Career,BUS 224
+International Business,Management Communication,BUS 228
+International Business,Entrepreneurship,BUS 230
+International Business,Real Estate Fundamentals,BUS 235
+International Business,Marketing Management,BUS 252
+International Business,Marketing Research: Design and Analysis,BUS 253
+International Business,Social Media and Advertising,BUS 258
+International Business,Digital Marketing,BUS 259
+International Business,"Alliance, Acquisition and Divestment Strategy",BUS 262
+International Business,Business and the Environment,BUS 264
+International Business,Transnational Negotiations,BUS 275
+International Business,Corporate Governance: From Clossal Failures to Best Practices,BUS 278
+International Business,Operational Risk Management,BUS 280
+International Business,Global Economic Environment,ECON 201
+International Business,Managerial Economics,ECON 207
+International Business,Foundations of Statistics,ECON 210
+International Business,Applied Econometrics,ECON 213
+International Business,Central Banking Seminar,ECON 235
+International Business,Asia: Center of World Economy,ECON 253
+International Business,Empirical Analysis of Trade Policy,ECON 261
+International Business,Economic Development Strategies,ECON 270
+International Business,Advanced Microeconomics 1,ECON 301
+International Business,Advanced Macroeconomics 1,ECON 303
+International Business,Corporate Finance,FIN 202
+International Business,International Financial Management,FIN 203
+International Business,Advanced Corporate Finance Theory and Practice,FIN 204
+International Business,Accounting and Financial Analysis,FIN 212
+International Business,Intermediate Financial Accounting,FIN 213
+International Business,Financial Statement Analysis,FIN 216
+International Business,Financial Modeling,FIN 217
+International Business,Financial Modeling 2,FIN 218
+International Business,Real Estate Finance,FIN 225
+International Business,Private Equity,FIN 231
+International Business,Mergers and Acquisitions Analysis,FIN 232
+International Business,Technical Analysis,FIN 236
+International Business,Credit Risk Analysis,FIN 242
+International Business,Transfer Pricing Theory and Practice,FIN 247
+International Business,Fixed Income Securities,FIN 261
+International Business,International Portfolio Management,FIN 263
+International Business,Options and Derivatives,FIN 270
+International Business,Options and Derivatives 2,FIN 271
+International Business,Applied Risk Management,FIN 279
+International Business,Computer Simulations and Risk Assessment,FIN 285
+International Business,Public Sector Economics,ECON 134
+International Business,Econometrics,ECON 184
+Legal Studies,Introduction to Law,LGLS 10
+Legal Studies,Law and Society Internship and Seminar,LGLS 89
+Legal Studies,American Health Care: Law and Policy,LGLS 114
+Legal Studies,Civil Rights and Civil Liberties: Constitutional Debates,LGLS 116
+Legal Studies,Immigration and Human Rights,LGLS 123
+Legal Studies,International Law and Development,LGLS 124
+Legal Studies,Conflict Analysis and Intervention,LGLS 130
+Legal Studies,"Patient Autonomy: Law, Medicine and Ethics",LGLS 131
+Legal Studies,Environmental Law and Policy,LGLS 132
+Legal Studies,Science on Trial,LGLS 138
+Legal Studies,Investigating Justice,LGLS 140
+Legal Studies,Law and Psychology,LGLS 142
+Legal Studies,Advocacy for Policy Change,LGLS 161
+Legal Studies,The Spirit of International Law,LGLS 180
+Legal Studies,Advocacy in the International Criminal Court,LGLS 185
+Legal Studies,Business Law,LGLS 189
+Legal Studies,Greening the Ivory Tower: Improving Environmental Sustainability of Brandeis and Community,AMST 191
+Legal Studies,American Legal History 1,HIST 160
+Legal Studies,Introduction to Talmud,NEJS 25
+Legal Studies,Introduction to the Qur'an,NEJS 186
+Legal Studies,What Does it Mean to be a Global Citizen?,PHIL 126
+Legal Studies,Constitutional Law,POL 115
+Legal Studies,Topics in Law and Political Theory,POL 192
+Legal Studies,The Legal Boundaries of Public and Private Life,AMST 60
+Legal Studies,Conspiracy Theory,AMST 170
+Legal Studies,American Legal History 2,HIST 160B
+Legal Studies,Intermediate Talmud,NEJS 126
+Legal Studies,Philosophy of Law,PHIL 125
+Legal Studies,Administrative Law,POL 117
+Legal Studies,"Production, Consumption and Exchange",ANTH 163
+Mathematics,Explorations in Math: A Course for Educators,MATH 3
+Mathematics,Precalculus Mathematics,MATH 5
+Mathematics,Introduction to Probability and Statistics,MATH 8
+Mathematics,Techniques of Calculus,MATH 10
+Mathematics,Applied Linear Algebra,MATH 15
+Mathematics,Multi Variable Algebra,MATH 20
+Mathematics,"Honors Linear Algebra and Multi Variable Calculus, Part 1",MATH 22
+Mathematics,Introduction to Proofs,MATH 23
+Mathematics,Introduction to Groups,MATH 28
+Mathematics,Advanced Calculus and Fourier Analysis,MATH 35
+Mathematics,Probability,MATH 36A
+Mathematics,Mathematical Statistics,MATH 36B
+Mathematics,Differential Equations,MATH 37
+Mathematics,"Introduction to Algebra, Part 1",MATH 100A
+Mathematics,"Introduction to Algebra, Part 2",MATH 100B
+Mathematics,Introduction to Differential Geometry,MATH 102
+Mathematics,Introduction to Number Theory,MATH 108
+Mathematics,"Introduction to Real Analysis, Part 1",MATH 110
+Mathematics,Introduction to Complex Analysis,MATH 115
+Mathematics,Algebra 1,MATH 131A
+Mathematics,Algebra 2,MATH 131B
+Mathematics,Geometric Analysis,MATH 140
+Mathematics,Real Analysis,MATH 141
+Mathematics,Topology 1,MATH 151A
+Mathematics,Topology 2,MATH 151B
+Mathematics,Combinatorics,MATH 160
+Mathematics,Topics in Combinatorics,MATH 180
+Mathematics,Topics in Algebra,MATH 201
+Mathematics,Algebraic Geometry 1,MATH 202A
+Mathematics,Algebraic Geometry 2,MATH 202B
+Mathematics,Number Theory,MATH 203
+Mathematics,T.A. Practicum,MATH 204
+Mathematics,Topics in Differential Geopmetry and Analysis 1,MATH 211
+Mathematics,Topology 3,MATH 221
+Mathematics,Lie Groups,MATH 224
+Mathematics,Econometrics,ECON 184
+Mathematics,Data Analysis and Statistics Workshop,BIOL 107
+Mathematics,Introduction to the Theory of Computation ,COSI 130
+Mathematics,Mathematical Logic,PHIL 106
+Mathematics,Classical Mechanics,PHYS 100
+Mathematics,Mathematical Physics,PHYS 110
+Mathematics,Biostatistics,BIOL 51
+Molecular and Cell Biology,Advanced Cell Biology,BIOL 100
+Molecular and Cell Biology,Molecular Biotechnology,BIOL 101
+Molecular and Cell Biology,Structural Molecular Biology,BIOL 102
+Molecular and Cell Biology,Mechanics of Cell Functions,BIOL 103
+Molecular and Cell Biology,Molecular Biology,BIOL 105
+Molecular and Cell Biology,Data Analysis and Statistics Workshop,BIOL 107
+Molecular and Cell Biology,Human Genetics,BIOL 128
+Molecular and Cell Biology,General Microbiology,BIOL 132
+Molecular and Cell Biology,"Environmental Epidemiology: Ticks, Mosquitos and Soil Amoebae",BIOL 152
+Molecular and Cell Biology,Project Lab: Barcoding and Virtual Barcoding of Species,BIOL 154
+Molecular and Cell Biology,Project Laboratory in Biotechnology,BIOL 156
+Molecular and Cell Biology,Project Laboratory in Microviology,BIOL 159
+Molecular and Cell Biology,Human Reproductive and Developmental Biology,BIOL 160
+Molecular and Cell Biology,DNA: Mechanisms and Research,BIOL 162
+Molecular and Cell Biology,Computational Neuroscience,NBIO 136
+Molecular and Cell Biology,Principles of Neuroscience,NBIO 140
+Molecular and Cell Biology,Systems Neuroscience,NBIO 145
+Molecular and Cell Biology,The Neurobiology of Human Disease,NBIO 146
+Molecular and Cell Biology,Neurogenetics,NBIO 147
+Molecular and Cell Biology,Cellular Mechanisms of Neuronal Excitability and Plasticity,NBIO 148
+Molecular and Cell Biology,Cellular and Network Mechanisms of Memory,NBIO 161
+Molecular and Cell Biology,Neurothology,NBIO 177
+Molecular and Cell Biology,Introduction to Genetic Counseling,BIOL 202
+Molecular and Cell Biology,Clinical Genetics 1,BIOL 204
+Molecular and Cell Biology,Counceling Theory and Techniques,BIOL 205
+Molecular and Cell Biology,Genetic Counseling: Case Conferences and Family Counceling,BIOL 207
+Molecular and Cell Biology,Genetic Counceling Research 2,BIOL 213
+Molecular and Cell Biology,Clinical Genetics 2,BIOL 220
+Molecular and Cell Biology,American Health Policy & Practice and the Delivery of Genomic Health Care ,BIOL 235
+Molecular and Cell Biology,Topics in Molecular Genetics and Development,BIOL 305
+Molecular and Cell Biology,Mechanisms of Recombination,BIOL 316
+Molecular and Cell Biology,Biological Physics,PHYS 105
+Molecular and Cell Biology,Responsible Conduct of Science,CONT 300
+Molecular and Cell Biology,Quantitative Biology Instrumentation Laboratory,QBIO 120
+Neuroscience,Introduction to Behavioral Neuroscience,NPSY 11
+Neuroscience,"Perception: Human, Animal and Machine",NPSY 12
+Neuroscience,Hand and Brain,NPSY 17
+Neuroscience,Introduction to Learning and Behavior,NPSY 18
+Neuroscience,Introduction to Cognitive Neuroscience,NPSY 22
+Neuroscience,Computational Neuroscience,NBIO 136
+Neuroscience,Principles of Neuroscience,NBIO 140
+Neuroscience,Systems Neuroscience,NBIO 145
+Neuroscience,The Neurobiology of Human Disease,NBIO 146
+Neuroscience,Neurogenetics,NBIO 147
+Neuroscience,Cellular Mechanisms of Neuronal Excitability and Plasticity,NBIO 148
+Neuroscience,Cellular and Network Mechanisms of Memory,NBIO 161
+Neuroscience,Neurothology,NBIO 177
+Neuroscience,Human Memory,NPSY 154
+Neuroscience,Advanced Topics in Behavioral Neuroscience,NPSY 197
+Neuroscience,Human Neuropsychology,NPSY 199
+Neuroscience,Proseminar,BIOL 200
+Neuroscience,Topics in Neurobiology,NBIO 306
+Neuroscience,Systems/Computational Neuroscience Journal Club,NBIO 340
+Neuroscience,Master's Research Lab,NEUR 296
+Neuroscience,Master's Research Project,NEUR 299
+Neuroscience,Dissertation Research,NEUR 401
+Neuroscience,Neuroethics,PHIL 123
+Neuroscience,Neurophilosophy,PHIL 153
+Neuroscience,Introductory Biochemistry,BCHM 88
+Neuroscience,Advanced Introductory Biochemistry,BCHM 100
+Neuroscience,Advanced Biochemistry: Enzyme Mechanisms,BCHM 101
+Neuroscience,Genetics and Genomics,BIOL 14
+Neuroscience,Cells and Organisms,BIOL 15
+Neuroscience,Physiology,BIOL 42
+Neuroscience,Animal Behavior,BIOL 50
+Neuroscience,Mechanisms of Cell Functions,BIOL 103
+Neuroscience,Molecular Biology,BIOL 105
+Neuroscience,Data Analysis and Statistics Workshop,BIOL 107
+Neuroscience,Quantitative Biology Instrumentation Laboratory,QBIO 120
+Neuroscience,Responsible Conduct of Science,CONT 300
+Philosophy,Introduction to Philosophy,PHIL 1
+Philosophy,Introduction to Symbolic Logic,PHIL 6
+Philosophy,The Idea of the Market: Economic Philosophies,PHIL 13
+Philosophy,Introduction to Ethics,PHIL 17
+Philosophy,Biomedial Ethics,PHIL 23
+Philosophy,Philosophy of Religion,PHIL 24
+Philosophy,Business Ethics,PHIL 25
+Philosophy,Philosophy of Language,PHIL 37
+Philosophy,Contemporary Anaytic Philosophy,PHIL 66
+Philosophy,Existentialism,PHIL 78
+Philosophy,Mathematical Logic,PHIL 106
+Philosophy,Kant's Moral Theory,PHIL 107
+Philosophy,Ethics and Emotions,PHIL 109
+Philosophy,Topics in Ethical Theory,PHIL 114
+Philosophy,Topics in Political Philosophy,PHIL 116
+Philosophy,Human Rights,PHIL 119
+Philosophy,History of Ethics,PHIL 122
+Philosophy,Neuroethics,PHIL 123
+Philosophy,Philosophy of Law,PHIL 125
+Philosophy,What Does It Mean to be a Global Citizen? ,PHIL 126
+Philosophy,Infinity,PHIL 132
+Philosophy,Philosophy of Perception,PHIL 134
+Philosophy,Theory of Knowledge,PHIL 135
+Philosophy,Personal Identity,PHIL 136
+Philosophy,Topics in Logic,PHIL 139
+Philosophy,"Social Policy qnd Rationality, Decision and Game Theory in Economics",PHIL 143
+Philosophy,Topics in the Philosophy of Knowledge,PHIL 145
+Philosophy,Idea of God,PHIL 146
+Philosophy,Topics in Epistemology and Metaphysics,PHIL 150
+Philosophy,Philosophy of Action,PHIL 151
+Philosophy,Neurophilosophy,PHIL 153
+Philosophy,Plato,PHIL 161
+Philosophy,Aristotie,PHIL 162
+Philosophy,Kant,PHIL 168
+Philosophy,Graduate Proseminar,PHIL 200
+Philosophy,Topics in Normative Philosophy,PHIL 214
+Philosophy,Graduate Seminar in the Philosophy of Mind and Cognitive Science,PHIL 231
+Philosophy,Graduate Seminar in Epistemology,PHIL 235
+Philosophy,Master's Project,PHIL 299
+Philosophy,Philosophical Approaches to Film Theory,ENG 61
+Philosophy,Subjectivity,ENG 134
+Philosophy,Knowledge and Power,HOID 102
+Philosophy,Tragedy: Love and Death in the Creative Imagination,HUM/UWS 1
+Philosophy,Modern Jewish Philosophy,NEJS 159
+Philosophy,"Formal Semantics: Truth, Meaning and Language",LING 130
+Philosophy,The Buddha: His Life and Teachings,REL 151
+Physics,Natire's Nanotechnology,FYS 11
+Physics,Introduction to Physical Laws and Phenomena 1,PHYS 10A
+Physics,Introduction to Physical Laws and Phenomena 2,PHYS 10B
+Physics,Introductory Physics 1,PHYS 11A
+Physics,Introductory Physics 2,PHYS 11B
+Physics,Advanced Introductory Physics 1,PHYS 15A
+Physics,Advanced Introductory Physics 2,PHYS 15B
+Physics,Introductory Laboratory 1,PHYS 18A
+Physics,Introductory Laboratory 2,PHYS 18B
+Physics,Physics Laboratory 1,PHYS 19A
+Physics,Physics Laboratory 2,PHYS 19B
+Physics,Waves and Oscillations,PHYS 20
+Physics,Electronics Laboratory 1 ,PHYS 29
+Physics,Electromagnetism,PHYS 30
+Physics,Quantum Theory 1,PHYS 31A
+Physics,Quantum Theory 2,PHYS 31B
+Physics,Advanced Physics Laboratory,PHYS 39
+Physics,Introduction to Thermodynamics and Statistical Mechanics,PHYS 40
+Physics,Senior Research,PHYS 99
+Physics,Classical Mechanics,PHYS 100
+Physics,General Relativity,PHYS 102
+Physics,Biological Physics,PHYS 105
+Physics,Astrophysics,PHYS 108
+Physics,Mathematical Physics,PHYS 110
+Physics,Electromagnetic Theory 1,PHYS 161A
+Physics,Electromagnetic Theory 2,PHYS 161B
+Physics,Quantum Mechanics 1,PHYS 162A
+Physics,Quantum Mechamisc 2,PHYS 162B
+Physics,Statistical Physics and Thermodynamics,PHYS 163
+Physics,Introduction to Astrophysics,PHYS 168
+Physics,Advanced Laboratory,PHYS 169
+Physics,Quantum Field Theory,PHYS 202
+Physics,Advanced Examination Tutorial 1,PHYS 213
+Physics,Dissertation Research ,PHYS 401
+Physics,QBReC Lab,EL 248
+Physics,Exploring Dark Matter and Dark Energy in the New Universe,FYS 71
+Physics,Readings in Macromolecular Structure-Function Analysis,BCBP 200
+Physics,Quantitative Biology Instrumentation Laboratory,QBIO 120
+Politics,Introduction to Political Theory,POL 10
+Politics,Introduction to Comparative Politics,POL 11
+Politics,Introduction to American Government,POL 14
+Politics,Introduction to International Relations,POL 15
+Politics,Seminar: Political Leadership,POL 103
+Politics,Elections in America,POL 105
+Politics,The American Congress,POL 111
+Politics,Democracy in America,POL 112
+Politics,The American Presidency,POL 113
+Politics,Constitutional Law,POL 115
+Politics,Civil Liberties in America,POL 116
+Politics,Administrative Law,POL 117
+Politics,"Red States, Blue States: Understanding Contemporary American Voters",POL 119
+Politics,The Politics of Policymaking,POL 120
+Politics,"Partisanship and Policymaking: the Clinton, Bush and Obama Presidencies",POL 121
+Politics,"Race, Inequality and the Social Policy",POL 124
+Politics,Seminar: Managing Ethnic Conflict,POL 127B
+Politics,Ending Deadly Conflict,POL 127A
+Politics,The Politics of Revolution: State Violence and Popular Insurgency in the Third World,POL 128
+Politics,Israeli Politics in Comparative Perspective,POL 138
+Politics,Latin America Politics 1,POL 144A
+Politics,The Government and Politics of China,POL 147
+Politics,Seminar: Contemporary Chinese Politics,POL 148
+Politics,Narco-Politics,POL 149
+Politics,The War on Global Terrorism,POL 160
+Politics,Conflict and Peacemaking in the Middle East,POL 164
+Politics,Seminar: The Middle East in International Relations,POL 166
+Politics,Seminar: International Political Economy,POL 172
+Politics,U.S. Foreign Economic Policy,POL 173
+Politics,China's Global Rise: The Challenge in Democratic Order,POL 179
+Politics,Seminar: Democratic Theory,POL 190
+Politics,Seminar: Topics in Law and Political Theory,POL 192
+Politics,Shakespeare and the Politics of Leadership,POL 195
+Politics,Graduate Seminar: Research Methods and Methodology,POL 212
+Politics,Graduate Seminar: International Relations,POL 214
+Politics,Graduate Seminar: American Political Behavior,POL 215
+Politics,The Culture of the Cold War,AMST 185
+Politics,American Legal History 1,HIST 160A
+Politics,American Legal History 2,HIST 160B
+Politics,America in the Progressive Era: 1890-1920,HIST 168
+Politics,"Red Flags/Black Flags: Marxism vs. Anarchism, 1845-1968",HIST 181
+Politics,American Health Care,HS 104
+Politics,Wealth and Poverty,HS 110
+Politics,Eli J. Segal Seminar in Citizen Leadership,HS 217
+Politics,Civil Rights and Civil Liberties: Constitutional Debates,LGLS 116B
+Politics,Topics in Political Philosophy,PHIL 116
+Politics,"Protest, Politics and Change: Social Movements",SOC 155
+Politics,The Spirit of International Law,IGS/LGLS 180
+Politics,Advocacy in the International Criminal Court,IGS/LGLS 185
+Psychology,Introduction to Behavioral Neuroscience,NPSY 11
+Psychology,"Perception, Human, Animal and Machine",NPSY 12
+Psychology,Hand and Brain,NPSY 17
+Psychology,Introduction to Learning and Behavior,NPSY 18
+Psychology,Introduction to Cognitive Neuroscience,NPSY 22
+Psychology,Psychological and Socio-Cultural Perspectives on Health,PSYC 2
+Psychology,Introduction to Psychology,PSYC 10
+Psychology,Biological Bases of Motovation,PSYC 15
+Psychology,Personality,PSYC 31
+Psychology,Abnormal Psychology,PSYC 32
+Psychology,Developmental Psychology,PSYC 33
+Psychology,Social Psychology,PSYC 34
+Psychology,Adolescence and the Transition to Maturity,PSYC 36
+Psychology,Health Psychology,PSYC 38
+Psychology,Statistics,PSYC 51
+Psychology,Research Methods and Laboratory in Psychology,PSYC 52
+Psychology,Advanced Topics in Behavioral Neuroscience,NPSY 197
+Psychology,Human Neuropsychology,NPSY 199
+Psychology,Life Span Development: Early and Middle Adulthood,PSYC 130
+Psychology,Statistical Analysis Software (SAS) Applications,PSYC 140
+Psychology,Organizational Behavior,PSYC 150
+Psychology,Seminar on Sex Differences ,PSYC 160
+Psychology,Clinical Psychology Practicum 1,PSYC 161A
+Psychology,Clinical Psychology Practicum 2,PSYC 161B
+Psychology,Disorders of Childhood,PSYC 169
+Psychology,Social Neuroscience and Culture,PSYC 180
+Psychology,Advanced Psychological Statistics 1,PSYC 210A
+Psychology,Advanced Psychological Statistics 2,PSYC 210B
+Psychology,Graduate Research Methods in Psychology,PSYC 211
+Psychology,Research in Spatial Orientation,PSYC 220
+Psychology,Research in Behavioral Neuroscience,PSYC 223
+Psychology,"Research in Stress, Aging and Health",PSYC 222
+Psychology,Research in Speech Perception and Cognitive Processes,PSYC 224
+Psychology,Research in Cognitive Processes and Psychopathology,PSYC 226
+Psychology,Research in Adolescent Health Psychology,PSYC 228
+Psychology,Research in Person Perception,PSYC 229
+Psychology,Research in Developmental Psychopathology,PSYC 232
+Psychology,Research in Visual Cognition,PSCV 233
+Psychology,Research in Life-Span Development,PSYC 234
+Psychology,Research in Organizational Psychology,PSYC 235
+Psychology,Research in Perceptual Development,PSYC 237
+Psychology,Research in Human Motor Control,PSYC 239
+Psychology,"Research in Aging, Culture and Cognition",PSYC 241
+Psychology,Research in Forensics,PSYC 242
+Psychology,Research in Social Neuroscience,PSYC 245
+Psychology,Aging in Cross-Cultural Perspective,ANTH 111
+Psychology,Organizational Behavior in Business,BUS 120
+Psychology,Computer-Supported Cooperation,COSI 118
+Psychology,The Psychology of Love: Education for Close Relationships,ED 173
+Psychology,Psycolinguistics,LING 173
+Psychology,Principles of Neuroscience,NBIO 140
+Psychology,Neurothics,PHIL 123
+Psychology,Human Memory,NPSY 154
+Psychology,Psychological Anthropology,ANTH 155
+Psychology,Topics in Computational Cognitive Science,COSI 111
+Psychology,Creativity and Caring,ED 163
+Psychology,"Perspectives on Behavioral health: Alcohol, Drugs and Mental Health",HSSP 115
+Psychology,Law and Psychology,LGLS 142
+Psychology,Language Acquisition and Development,LING 197
+Psychology,Responsible Conduct of Science,CONT 300
+Sociology,Order and Change in Society,SOC 1
+Sociology,Sociology of Education,SOC 104
+Sociology,Social Class and Social Change,SOC 112
+Sociology,Masculinities,SOC 115
+Sociology,Globalization and the Media,SOC 120
+Sociology,Sociology of Work and Gender,SOC 117
+Sociology,Observing the Social World: Doing Qualitative Sociology,SOC 118
+Sociology,"Deconstructing War, Building Peace",SOC 119
+Sociology,"Religion, Gender and Sexuality in America: A Sociological Approach",SOC 121
+Sociology,The Sociology of American Immigration,SOC 122
+Sociology,Gender and Human Rights,SOC 124
+Sociology,Sociology of Religion,SOC 129
+Sociology,Mass Communication Theory,SOC 146
+Sociology,"The Sociology of Information: Politics, Power and Poverty",SOC 148
+Sociology,Culture and Consumption,SOC 150
+Sociology,Urban Life and Culture,SOC 152
+Sociology,The Sociology of Empowerment,SOC 153
+Sociology,Community Structure and Youth Subcultures,SOC 154
+Sociology,"Protest, Politics and Change: Social Movements",SOC 155
+Sociology,Intellectuals and Revolutionary Politics,SOC 162
+Sociology,Issues in Sexuality,SOC 169
+Sociology,"Environmental Movements: Organizations, Networks and Partnerships",SOC 175
+Sociology,Applied Research Methods,SOC 182
+Sociology,Sociology of Body and Health,SOC 189
+Sociology,"Health, Community and Society",SOC 191
+Sociology,Sociology of Mental Health and Illness,SPC 194
+Sociology,Foundations of Sociological Theory,SOC 204
+Sociology,Social Problems Theory and Research,SOC 208
+Sociology,Social Movements,SOC 209
+Sociology,"Gender, Class and Race",SOC 210
+Sociology,Dissertation Research,SOC 401
+Sociology,Aging in Cross-Cultural Perspective,ANTH 111
+Sociology,"Red Flags/Black Flags: Marxism vs. Anarchism, 1845-1968",HIST 181
+Sociology,Wealth and Poverty,HS 110
+Sociology,Racial/Ethnic and Gender Inequalitis in Health and Health Care,HSSP 114
+Sociology,Sociology of Disability,HSSP 192
+Sociology,The Sociology of the American Jewish Community,NEJS 164
+Sociology,Women's Gender and Sexuality Studies Research Seminar,WMGS 208

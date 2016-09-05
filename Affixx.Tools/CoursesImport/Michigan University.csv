@@ -1,0 +1,1849 @@
+Group,Course Name,Course Code
+Mathematics,"Introduction to Statistics, Probability and Mathematical Modeling",MATH 100
+Mathematics,Intermediate Algebra,MATH 103
+Mathematics,Mathematical Thinking,MATH 104
+Mathematics,"Data, Functions and Graphs",MATH 105
+Mathematics,Mathematics for the Information Age,MATH 107
+Mathematics,Pre Calculus,MATH 110
+Mathematics,Calculus 1,MATH 115
+Mathematics,Calculus 2,MATH 116
+Mathematics,Geometry and the Imagination,MATH 127
+Mathematics,Explorations in the Number Theory,MATH 128
+Mathematics,Houghton Scholars Calculus Workshop 1,MATH 145
+Mathematics,Houghton Scholars Calculus Workshop 2,MATH 146
+Mathematics,Introduction to Interest Theory,MATH 147
+Mathematics,Applied Honors Calculus 2,MATH 156
+Mathematics,Proofs in Geometry,MATH 174
+Mathematics,Introduction to Cryptology,MATH 175
+Mathematics,Explorations in Topology and Analysis,MATH 176
+Mathematics,Honors Calculus 1,MATH 185
+Mathematics,Honors Calculus 2,MATH 186
+Mathematics,Linear Algebra,MATH 214
+Mathematics,Calculus 3,MATH 215
+Mathematics,Introduction to Differential Equations,MATH 216
+Mathematics,Linear Algebra,MATH 217
+Mathematics,Applied Honors Calculus 3,MATH 255
+Mathematics,Applied Honors Calculus 4,MATH 256
+Mathematics,Problem Solving,MATH 289
+Mathematics,Honors Mathematics 1,MATH 295
+Mathematics,Honors Mathematics 2,MATH 296
+Mathematics,Elementary Topics: Choice and Chance,MATH 310
+Mathematics,Applied Modern Algebra,MATH 312
+Mathematics,Differential Equations,MATH 316
+Mathematics,Evolution of Mathematical Concepts,MATH 327
+Mathematics,Principles of Analysis,MATH 351
+Mathematics,Fourier Analysis and Its Applications,MATH 354
+Mathematics,Numerical Methods,MATH 371
+Mathematics,Math for Elementary School Teachers,MATH 385
+Mathematics,Explorations in Mathematics,MATH 389
+Mathematics,Honors Analysis 1,MATH 395
+Mathematics,Honors Analysis 2,MATH 396
+Mathematics,Intermediate Differential Equations,MATH 404
+Mathematics,Introduction to Modern Algebra,MATH 412
+Mathematics,Theory of Algorithms,NATH 416
+Mathematics,Matrix Algebra 1,MATH 417
+Mathematics,Linear Spaces and Matrix Theory,MATH 419
+Mathematics,Advanced Linear Algebra,MATH 420
+Mathematics,Risk Management and Insurance,MATH 422
+Mathematics,Mathematics of Finance,MATH 423
+Mathematics,Compound Interest and Life Insurance,MATH 424
+Mathematics,Introduction to Probability,MATH 425
+Mathematics,Retirement Plans and Other Employee Benefits,MATH 427
+Mathematics,Topics in Geometry for Teachers,MATH 431
+Mathematics,Introduction to Differential Geometry,MATH 433
+Mathematics,Introduction to Differential Manifolds,MATH 437
+Mathematics,Advanced Mathematics for Engineers 1,MATH 450
+Mathematics,Advanced Calculus 1,MATH 451
+Mathematics,Advanced Calculus 2,MATH 452
+Mathematics,Boundary Value Problems for Partial Differential Equations,MATH 454
+Mathematics,Mathematical Models,MATH 462
+Mathematics,Math Modeling in Biology,MATH 463
+Mathematics,Inverse Problems,MATH 464
+Mathematics,Introduction to Combinatorics,MATH 465
+Mathematics,Mathematical Ecology,MATH 466
+Mathematics,Introduction to Numerical Methods,MATH 471
+Mathematics,Numerical Methods with Financial Applications,MATH 472
+Mathematics,Elementary Number Theory,MATH 475
+Mathematics,Computatioal Laboratory in Number Theory,MATH 476
+Mathematics,Introduction to Mathematical Logic,MATH 481
+Mathematics,Concepts Basic to Secondary School Math,MATH 485
+Mathematics,Math for Elemetary and Middle School Teachers,MATH 489
+Mathematics,Introduction to Topology,MATH 490
+Mathematics,Honors Algebra 1,MATH 493
+Mathematics,Honors Algebra 2,MATH 494
+Mathematics,Topics in Elemetary Mathematics,MATH 497
+Mathematics,Topics in Modern Mathematics,MATH 498
+Mathematics,Life Contingencies 1,MATH 520
+Mathematics,Life Contingencies 2,MATH 521
+Mathematics,Actuarial Theory of Pensions and Social Security,MATH 522
+Mathematics,Risk Theory,MATH 523
+Mathematics,Probability Theory,MATH 525
+Mathematics,Discrete State Stochastic Processes,MATH 526
+Mathematics,Topics in Casualty Insurance,MATH 528
+Mathematics,Biological Sequence Analysis,MATH 547
+Mathematics,Introduction to Adaptive Systems,MATH 550
+Mathematics,Introduction to Complex Variables,MATH 555
+Mathematics,Methods of Applied Mathematics 1,MATH 556
+Mathematics,Methods of Applied Mathematics 2,MATH 557
+Mathematics,Ordinary Differential Equations,MATH 558
+Mathematics,Topics in Applied Mathematics,MATH 559
+Mathematics,Linear Programming 1,MATH 561/ OMS 518/ IOE 511
+Mathematics,Continuous Optimization Methods,MATH 562/ IOE 511
+Mathematics,Advanced Mathematical Methods for the Biological Sciences,MATH 563
+Mathematics,Topics in Mathematical Biology,MATH 564
+Mathematics,Combinatorics and Graph Theory,MATH 565
+Mathematics,Combinatorial Theory,MATH 566
+Mathematics,Introduction to Coding Theory,MATH 567
+Mathematics,Numerical Methods for Scentific Computing 1,MATH 571
+Mathematics,Numerical Methods for Scientific Computing 2,MATH 572
+Mathematics,Introduction to Theory of Numbers,MATH 575
+Mathematics,Introduction to Set Theory,MATH 582
+Mathematics,An Introduction to Topology,MATH 590
+Mathematics,General and Differential Topology,MATH 591
+Mathematics,An Introduction to Algebraic Topology,MATH 592
+Mathematics,Algebra 1,MATH 593
+Mathematics,Algebra 2,MATH 594
+Mathematics,Analysis 1 (Complex),MATH 596
+Mathematics,Analysis 2 (Real),MATH 597
+Anthropology,Introduction to Prehistoric Archaeology,ANTHRARC 282
+Anthropology,Topics in Archaeology: Local Food Producers,ANTHRARC 296
+Anthropology,Undergraduate Seminar in Archaeology,ANTHRARC 394
+Anthropology,Introduction to Analytical Methods in Archaeology,ANTHRARC 494
+Anthropology,Introduction to Biological Anthropology,ANTHRBIO 201
+Anthropology,Human Evolution,ANTHRBIO 365
+Anthropology,Primate Social Behavior,ANTHRBIO 368/ PSYCH 228
+Anthropology,Human and Environmental Change,ANTHRBIO 373
+Anthropology,Primate Conservation Biology,ANTHRBIO 461/ ANVIRON 461
+Anthropology,Human Life Cycle,ANTHEBIO 462
+Anthropology,Primate Functional Anatomy,ANTHRBIO 465
+Anthropology,Human Behavioral Ecology,ANTHRBIO 467
+Anthropology,Topics in Biological Anthropology: Collection of Human Biological Samples & Analysis of Biomarks,ANTHRBIO 469
+Anthropology,Research in Biological Anthropology: An Introduction to Statistical Modeling and Data Visualization in R,ANTHRBIO 471
+Anthropology,Methods in Paleodiet Reconstruction,ANTHRBIO 476
+Anthropology,Primate Behavioral Ecology & Sociobiology,ANTHRBIO 478
+Anthropology,"Problems in Nutrition, Growth and Aging",ANTHRBIO 664
+Anthropology,"Topics in Human Evolution: Neandertals as ""others""",ANTHRBIO 665
+Anthropology,Topics in Primatology: The Hottest Topics in Primatology and Behavior,ANTHRBIO 668/ PSYCH 630
+Anthropology,Language and Culture,ANTHRCUL 374/ LING 374
+Anthropology,Topics in Sociocultural and Linguistic Anthropolgy,ANTHRCUL 458
+Anthropology,Ethnopoetics: Cross-Cultural Approaches to Verbal Art,ANTHRCUL 473/ LING 473
+Anthropology,The Comparative Study of Cultures,ANTHRCUL 222
+Anthropology,The Anthropology of Food,ANTHRCUL 254
+Anthropology,Cuba & Its Diaspora,ANTHRCUL 314
+Anthropology,Introduction to Latin America Society and Culture,ANTHRCUL 319
+Anthropology,Latin America: The Colonial Period,ANTHRCUL 346/ HISTORY 347
+Anthropology,Topics in Sociocultural Anthropology: Child Health in Africa,ANTHRCUL 356
+Anthropology,Introduction to Caribbean Societies and Cultures 1,ANTHRCUL 414
+Anthropology,Topics in Sociocultural and Linguistic Anthropology,ANTHRCUL 458
+Anthropology,Critical Theory in Medicine and Healing,ANTHRCUL 327/ RCSSCI 327/ WMSTD 307
+Anthropology,Globalizing Consumer Cultures,ANTHRCUL 328
+Anthropology,"Culture, Thought and Meaning",ANTHRCUL 330
+Anthropology,Anthropology and the Body,ANTHRCUL 352
+Anthropology,Childbirth & Culture,ANTHRCUL 325. WMSTD 324
+Anthropology,Non-Western Legal Systems 1,ANTHRCUL 333
+Anthropology,Topics in Sociocultural Anthropology: Filming the Future of Detroit,ANTHRCUL 356
+Anthropology,"Undergrad Seminar in Sociocultural Anthropology: Art, Science and Thechnology",ANTHRCUL 357/HISTART 393
+Anthropology,Sex and the City: Urban Geography and Sexual Locations,ANTHRCUL 446
+Anthropology,"Global Perspective on Gender, Health and Reproduction",AAS 365/ WOMENSTD 365
+Anthropology,Human Growth and Development Across the Life Cycle,ANTHRBIO 462
+Chemistry,Concepts in Chemistry,CHEM 100
+Chemistry,Our Changing Environment,CHEM 105
+Chemistry,Quantitative Reasoning in Biological Sciences,CHEM 106/ BIOL 106
+Chemistry,The Physical World,CHEM 108/PHYS 119
+Chemistry,Natural Science: Bridging the Gaps,CHEM 109/PHYS 109
+Chemistry,First Year Seminar in Chemistry,CHEM 120
+Chemistry,General Chemistry Laboratory 1,CHEM 125
+Chemistry,General Chemistry Laboratory 2,CHEM 126
+Chemistry,General Chemistry: Macroscopic Investigations and Reaction Principles,CHEM 130
+Chemistry,Structure and Reactivity 1,CHEM 210
+Chemistry,Investigations in Chemisry,CHEM 211
+Chemistry,Structure and Reactivity 2,CHEM 215
+Chemistry,Synthesis and Characterization of Organic Compounds,CHEM 216
+Chemistry,Independent Study in Chemistry,CHEM 219
+Chemistry,Teaching Experience for Undergraduates,CHEM 220
+Chemistry,Physical Chemical Principles and Applications,CHEN 230
+Chemistry,Introduction to Chemical Analysis,CHEN 241
+Chemistry,Introduction to Chemical Analysis Laboratory,CHEM 242
+Chemistry,Biomedical Analytical Chemistry,CHEM 245
+Chemistry,Biomedical Analytical Chemistry Laboratory 1,CHEM 246
+Chemistry,Biomedical Analytical Chemistry Laboratory 2,CHEM 247
+Chemistry,Chemical Principles,CHEM 260
+Chemistry,Introduction to Quantum Chemistry,CHEM 261
+Chemistry,Mathematical Methods for Physical Scientists,CHEM 262
+Chemistry,Sophomore Seminar,CHEM 290
+Chemistry,"Inorganic Chemistry: Molecules, Materials and Applications in Energy",CHEM 302
+Chemistry,Intriductory Bioinorganic Chemistry: The Role of Metals in Life,CHEM 303
+Chemistry,Fundamentals of Biochemistry,CHEM 351
+Chemistry,Introdcution to Biochemical Research Techniques and Scientific Writing,CHEN 353
+Chemistry,Physical and Chemical Principles Behind Biology nad Medicine,CHEM 370/ BIOPHYS 370/ PHYSICS 370
+Chemistry,Undergraduate Research in Biochemistry,CHEM 398
+Chemistry,Undergraduate Research,CHEM 399
+Chemistry,Intermediate Inorganic Chemistry,CHEM 402
+Chemistry,Responsible Conduct in Chemical Research,CHEM 415
+Chemistry,Dynamical Processes in Biophysics,CHEM 417/ BIOPHYS 417/ PHYSICS 417
+Chemistry,Intermediate Physical Organic Chemistry,CHEM 419
+Chemistry,Intermediate Organic Chemistry,CHEM 420
+Chemistry,Special Topics in Organic Chemistry,CHEM 425
+Chemistry,Polymer Synthesis and Characterization,CHEM 436
+Chemistry,Biophysics of Diseases,CHEN 440/ BIOPHYS 440
+Chemistry,Physical Methods of Analysis,CHEM 447
+Chemistry,Advanced Biochemistry: Macromolecular Structure and Function,CHEM 451/ BIOLCHEM 451
+Chemistry,Advanced Biochemistry: Cellular Processes,CHEM 452/BIOLCHEM 452
+Chemistry,Biophysical Chemistry 1: Themodynamics and Kinetics,CHEM 453
+Chemistry,Biophysical Chemistry 2: Macromolecular Structure and Dynamics,CHEM 454/ BIOPHYS 454
+Chemistry,Special Topics in Biochemistry: Nucletic Acids,CHEN 455
+Chemistry,Physical Chemistry 1,CHEM 461
+Chemistry,Computational Chemistry Laboratory,CHEM 462
+Chemistry,Physical Chemistry 2,CHEM 463
+Chemistry,Special Topics in Physical Chemistry,CHEM 465
+Chemistry,Biogeochemical Cycles,CHEM 467
+Chemistry,Environmental Chemistry,CHEM 474
+Chemistry,Synthesis and Characterization,CHEM 482
+Chemistry,Advanced Methods in Physical Analysis,CHEM 483
+Chemistry,Communication in the Natural Sciences,CHEM 495
+Chemistry,Undergraduate Honors Thesis in Biochemistry,CHEM 498
+Chemistry,Undergraduate Thesis,CHEM 499
+Chemistry,Inorganic Chemistry,CHEN 507
+Chemistry,Materials Chemistry,CHEM 511
+Chemistry,Methods of Biophysical Chemistry,CHEN 520
+Chemistry,Principles of Biophysical Chemistry,CHEN 521
+Chemistry,Organic Chemistry of Macromolecules,CHEN 538
+Chemistry,Organic Principles,CHEN 549
+Chemistry,Advanced Organic Chemistry,CHEN 541
+Chemistry,Applications of Physical Methods to Organic Chemistry,CHEN 542
+Chemistry,Molecular Physical Chemistry,CHEM 570
+Chemistry,Chemical Thermodynamics,CHEN 575
+Chemistry,Molecular Spectra Structure,CHEN 580
+Chemistry,Kinetics and Mechanism,CHEM 673/BIOLCHEM 673
+Biology,Biology for Nonscientists,BIOLOGY 100
+Biology,"Energy, Food and the Environment",BIOLOGY 101/ EVVIRON 101
+Biology,Practical Botany,BIOLOGY 102
+Biology,Biology of Nutrition,BIOLOGY 105
+Biology,Quantitative Reasoning in Biological Sciences,BIOLOGY 106
+Biology,Evolution of Life,BIOLOGY 107
+Biology,Introduction to Animal Diversity,BIOLOGY 108
+Biology,Ecological Knowledge and Environmental Problem Solving,BIOLOGY 109
+Biology,Introduction to Global Change: The Science Behaind Sustainability,BIOLOGY 110
+Biology,Biology of Sex,BIOLOGY 116
+Biology,AIDS and Other Health Crises,BIOLOGY 118
+Biology,First Year Seminar in Biology,BIOLOGY 120
+Biology,Topics in Biology,BIOLOGY 121
+Biology,Biotechnology and Society,BIOLOGY 125
+Biology,Animal Behavior,BIOLOGY 130
+Biology,Decoding Your DNA: Implications for You and Society,BIOLOGY 144
+Biology,Introductory Biology: Ecology and Evolution,BIOLOGY 171
+Biology,"Introductory Biology - Molecular, Cellular and Developmental",BIOLOGY 172
+Biology,Introductory Biology Laboratory,BIOLOGY 173
+Biology,Introduction to Cell and Molecular Biology,BIOLOGY 174
+Biology,Undergraduate Tutorial,BIOLOGY 200
+Biology,Intermediate Topics Biology,BIOLOGY 201
+Biology,Mathematics of Life: Itroduction to Quantitative Biology,BIOLOGY 202
+Biology,Developmental Biology,BIOLOGY 205
+Biology,Introductory Microbiology,BIOLOGY 207
+Biology,Plants and Human Health,BIOLOGY 212
+Biology,Principles of Animal Physiology and Neurobiology,BIOLOGY 225
+Biology,Animal Physiology Laboratory,BIOLOGY 226
+Biology,Introduction to Plant Biology,BIOLOGY 230
+Biology,Honors Core in Biology,BIOLOGY 232
+Biology,"Health, Biology and Society: What is Cancer?",BIOLOGY 241
+Biology,Honors Core Writing in Biology,BIOLOGY 242
+Biology,Vertebrate Evolution and Diversity,BIOLOGY 252
+Biology,Plant Diversity,BIOLOGY 255
+Biology,Environmental Physiology of Animals,BIOLOGY 256
+Biology,General Ecology,BIOLOGY 281
+Biology,Animal Diversity,BIOLOGY 288
+Biology,Genetics,BIOLOGY 305
+Biophysics,Intriduction to Medical Imaging,BIOPHYS 116
+Biophysics,The Discovery of the DNA Double Helix and Its Hidden Mysteries,BIOPHYS 120
+Biophysics,Biophysics Undergraduate Research,BIOPHYS 280
+Biophysics,Physics of the Body and Mind,BIOPHYS 290/ PHYSICS 290
+Biophysics,Physical and Chemical Principles Behind Biology and Medicine,BIOPHYS 370/CHEM 370/Physics 370
+Biophysics,Research in Biophysics,BIOPHYS 399
+Biophysics,Directed Study,BIOPHYS 415
+Biophysics,Dynamical Processes in Biophysics,BIOPHYS 417/ CHEM 417/ PHYSICS 417
+Biophysics,Biocomplexity,BIOPHYS 433/ PHYSICS 433
+Biophysics,Biophysical Modeling,BIOPHYS 435
+Biophysics,Biophysics of Diseases,BIOPHYS 440
+Biophysics,Laboratory Techniques in Biophysics,BIOPHYS 450/ PHYSICS 450
+Biophysics,Biophysical Chemistry 2: Macromolecular Structure and Dynamics,BIOPHYS 454/CHEM 454
+Biophysics,Mathematical Modeling in Biology,BIOPHYS 463/MATH 463
+Biophysics,Senior Seminar in Biophysics,BIOPHYS 495
+Biophysics,Senior Thesis,BIOPHYS 498
+Biophysics,Honors Thesis,BIOPHYS 499
+Biophysics,Methods of Biophysical Chemistry,BIOPHYS 520/ CHEM 520
+Biophysics,Principles of Biophysical Chemistry,BIOPHYS 521/ CHEM 521
+Communication,The Mass Media,COMM 101
+Communication,Media Processes and Effects,COMM 102
+Communication,Quantitative Skills for Communication Studies,COMM 121
+Communication,Media Analysis: Concepts and Methods,COMM 122
+Communication,First Year Seminar in Media Issues,COMM 159
+Communication,Understanding Media Industries,COMM 251
+Communication,Views on the News: What Shapes our Media Content,COMM 261
+Communication,Communication Revolutions,COMM 271
+Communication,Media Psychology,COMM 281
+Communication,Survey of Media Topics,COMM 305
+Communication,Behind the Digital Screen,COMM 313
+Communication,Critical Approaches to the Internet,COMM 315
+Communication,Designing Persuasive Communication,COMM 317
+Communication,Media and Violence,COMM 318/ PSYCH 318
+Communication,Media and Globalization,COMM 325
+Communication,American Magazines,COMM 326
+Communication,Media Economics ,COMM 327
+Communication,Mass Media and Political Behavior,COMM 329/ POLSCI 329
+Communication,"Race, U.S. Culture and Digital Games",COMM 334
+Communication,History of U.S. Broadcasting,COMM 335
+Communication,Advertising and the New Media Environment,COMM 347
+Communication,The Rise and Demise of Mass Culture,COMM 350
+Communication,Digital Media Foundations,COMM 362
+Communication,Visual Culture and Visual Literacy,COMM 365
+Communication,"Media, Culture and Society",COMM 371
+Communication,"Persuation, Communication and Campaigns",COMM 380
+Communication,Special Topics in Mass Media and Mass Communication,COMM 404
+Communication,Seminar in Media Effects,COMM 408
+Communication,Seminar in Media Effects,COMM 409
+Communication,Environmental Communication,COMM 413
+Communication,"Communication, Identity and the Public Sphere",COMM 415
+Communication,Designing Web Research,COMM 418
+Communication,Seminar in Research Methods,COMM 419
+Communication,Media Law and Policy,COMM 421
+Communication,Social Media and Politics,COMM 422
+Communication,Computer Mediated Communication,COMM 423
+Communication,"Race, Gender and New Media",COMM 424
+Communication,"Internet, Society and the Law",COMM 425
+Communication,"Gender, Media and the Law",COMM 428
+Communication,Supreme Court News Coverage,COMM 431
+Communication,Foreign News Coverage,COMM 432
+Communication,Ethics Issues in Journalism ,COMM 435
+Communication,Seminar in Journalistic Performance,COMM 439
+Communication,Global Iconic Events,COMM 440
+Communication,"LA, Bombay, Hong Kong: Cultural Industries in Transition",COMM 443
+Communication,"Race, Representation and the Media",COMM 444
+Communication,Music and Mediated Identities,COMM 445
+Communication,Reality and Television,COMM 446
+Communication,Women and Islam: The Politics of Representation,COMM 447
+Communication,Media and the Body,COMM 448
+Communication,Global Visual Cultures,COMM 455
+Communication,Critical Issues in Television: The Post Network Era,COMM 456
+Communication,Citizenship after Television,COMM 457
+Communication,History of Technology and Modern Culture,COMM 460
+Communication,Visuality and the New Media,COMM 461
+Communication,Communication and Political Representation,COMM 463
+Communication,Social Consequences of Mobile Communication,COMM 464
+Communication,Health Communication and Health Behavior Change,COMM 465
+Communication,Global Digital Politics,COMM 466
+Communication,"Debating Politics and Science: Science, News, Public Opinion and Policy",COMM 467
+Communication,Play and Technology,COMM 469
+Communication,Telling Our Own Stories: Minority Self-Representation in the Media,COMM 470
+Communication,Mass Media in the World,COMM 475
+Communication,The Mass Media and Celebrity Culture,COMM 477
+Communication,Strategic and Pursuasive Communication,COMM 480
+Communication,Children and the Media,COMM 482
+Communication,Media and Intergroup Conflict,COMM 483
+Communication,Afro-Asian Popular Culture,COMM 486
+Communication,African Americans in Popular Culture,COMM 487
+Communication,Capstones Seminars in Media Topics,COMM 490
+Communication,Senior Honors Seminar 1,COMM 491
+Communication,Senior Honors Thesis,COMM 492
+Economics,Principles of Economics 1,ECON 101
+Economics,Principles of Economics 2,ECON 102
+Economics,Introductory Microeconomics Workshop,ECON 108
+Economics,First Year Seminar in Economics,ECON 140
+Economics,Seminar in Introductory Economics,ECON 195
+Economics,Honors Core in Economics,ECON 230
+Economics,Honors Core Writing in Economics,ECON 240
+Economics,Introduction to Statistics and Econometrics 2,ECON 251
+Economics,Experimental Economics,ECON 309
+Economics,Money and Banking,ECON 310
+Economics,Survey of Labor Economics,ECON 320
+Economics,Economics and Gender,ECON 323
+Economics,Economics of Education,ECON 325
+Economics,American Industries,ECON 330
+Economics,International Economies,ECON 340
+Economics,The Developing Economies,ECON 360
+Economics,Environmental and Resource Economics,ECON 370
+Economics,Topics in Microeconomics and Microeconomic Policy,ECON 395
+Economics,Topics in Macroeconomics and Macroeconomic Policy,ECON 396
+Economics,Intermediate Microeconomic Theory,ECON 401
+Economics,Intermediate Macroeconomic Theory ,ECON 402
+Economics,Philosophy and Economics,ECON 408
+Economics,Game Theory,ECON 409
+Economics,Monetary and Financial Theory,ECON 411
+Economics,Topics in Macroeconomics,ECON 412
+Economics,Growth Theory,ECON 414
+Economics,Business Cycle,ECON 418
+Economics,Labor Economics 1,ECON 421
+Economics,The Structure of Labor Markets,ECON 422
+Economics,Migration Economics and Policy,ECON 429
+Economics,Industrial Organization and Performance,ECON 431
+Economics,Government Regulation of Industry,ECON 432
+Economics,Financial Economics,ECON 435
+Economics,Energey Economics and Policy,ECON 437
+Economics,Economics of Health Services,ECON 438
+Economics,International Trade Theory,ECON 441
+Economics,International Finance ,ECON 442
+Economics,The European Economy,ECON 444
+Economics,The Economy of the People's Republic of China,ECON 445
+Economics,Intermediate Introduction to Statistics and Econometrics 1,ECON 451
+Economics,Intermediate Introduction to Statistics and Econometrics 2,ECON 452
+Economics,Advanced Introduction to Statistics and Econometrics 1,ECON 453
+Economics,Advanced Introduction to Statistics and Econometrics 2,ECON 454
+Economics,Financial Econometrics,ECON 457
+Economics,The Economics of Development 1,ECON 461
+Economics,The Economics of Development 2,ECON 462
+Economics,Economics of Population,ECON 466
+Economics,Intermediate Natural Resource Economics,ECON 472
+Economics,Government Expenditures,ECON 481
+Economics,Government Revenues,ECON 482
+Economics,Law and Economics,ECON 485
+Economics,Topics in Microeconomics,ECON 490
+Economics,The History of The American Economy,ECON 491
+Economics,Topics in Economic History,ECON 494/HISTORY 494
+Economics,Seminar in Economics,ECON 495
+Economics,History of Economic Thought,ECON 496
+Economics,Honors Independent Research,ECON 498
+Economics,Independent Research,ECON 499
+Ecology and Evolutionary Biology,Undergraduate Research,EEB 300
+Ecology and Evolutionary Biology,Geobiology,EEB 313
+Ecology and Evolutionary Biology,The Ecology and Evolution of Infectious Diseases,EEB 315
+Ecology and Evolutionary Biology,Introduction to Food Systems,EEB 316
+Ecology and Evolutionary Biology,"Food, Land and Society",EEB 318
+Ecology and Evolutionary Biology,"Rivers, Lakes and Wetlands: Introduction to Aquatic Ecosystems",EEB 320
+Ecology and Evolutionary Biology,"Rivers, Lakes and Wetlands: Introduction to Aquatic Ecosystems (UMBS)",EEB 321
+Ecology and Evolutionary Biology,Biology of Birds,EEB 330
+Ecology and Evolutionary Biology,Biodiveristy Research Seminar,EEB 335
+Ecology and Evolutionary Biology,Parasitology,EEB 341
+Ecology and Evolutionary Biology,Forest Ecosystems,EEB 348
+Ecology and Evolutionary Biology,Primate Evolutionary Ecology,EEB 362
+Ecology and Evolutionary Biology,General Ecology Laboratory,EEB 372
+Ecology and Evolutionary Biology,Oceanography: Marine Ecology,EEB 380
+Ecology and Evolutionary Biology,General Ecology,EEB 381
+Ecology and Evolutionary Biology,Evolution,EEB 390
+Ecology and Evolutionary Biology,Introduction to Evolution: Quantitative Approach,EEB 391
+Ecology and Evolutionary Biology,Evolution (UMBS),EEB 392
+Ecology and Evolutionary Biology,Writing in Biology,EEB 397
+Ecology and Evolutionary Biology,Doing Science: An Introduction to Experimental Design in the Life Sciences,EEB 399
+Ecology and Evolutionary Biology,Advanced Research,EEB 400
+Ecology and Evolutionary Biology,Advanced Topics in Biology,EEB 401
+Ecology and Evolutionary Biology,"Genetics, Development and Evolution",EEB 404
+Ecology and Evolutionary Biology,Biological Station Special Topics,EEB 405
+Ecology and Evolutionary Biology,Modeling for Ecology and Evolutionary Biology,EEB 408
+Ecology and Evolutionary Biology,EEB Capstone Seminar,EEB 410
+Ecology and Evolutionary Biology,Molecular Approaches in Ecology and Evolutionary Biology,EEB 414
+Ecology and Evolutionary Biology,Introduction to Bioinformatics,EEB 416
+Ecology and Evolutionary Biology,Plant Evolution,EEB 420
+Ecology and Evolutionary Biology,Behavioral Ecology and Conservation Biology,EEB 424
+Ecology and Evolutionary Biology,Modeling Infectious Diseases,EEB 430
+Ecology and Evolutionary Biology,Ecology of Animal Parasites,EEB 431
+Ecology and Evolutionary Biology,Ornithology,EEB 433
+Ecology and Evolutionary Biology,Woody Plants: Biology and Identification,EEB 436
+Ecology and Evolutionary Biology,Biology of Fishes,EEB 440
+Ecology and Evolutionary Biology,Biology of Insects,EEB 442
+Ecology and Evolutionary Biology,Biology of Insects (UMBS),EEB 443
+Ecology and Evolutionary Biology,Microbial Ecology,EEB 446
+Ecology and Evolutionary Biology,Biology of Mammalls,EEB 451
+Ecology and Evolutionary Biology,Field Mammalogy,EEB 453
+Ecology and Evolutionary Biology,Etnobotany,EEB 455
+Ecology and Evolutionary Biology,Great Lakes Coastal Wetlands,EEB 456
+Ecology and Evolutionary Biology,Algae in Freshwater Ecosystems,EEB 457
+Ecology and Evolutionary Biology,Systematic Botany,EEB 459
+Ecology and Evolutionary Biology,Neotropical Plant Families,EEB 463
+Ecology and Evolutionary Biology,Mathematical Ecology,EEB 466
+Ecology and Evolutionary Biology,Biology of Fungi,EEB 468
+Ecology and Evolutionary Biology,Microbial Diveristy,EEB 470
+Ecology and Evolutionary Biology,Plant-Animal Interactions,EEB 472
+Ecology and Evolutionary Biology,Ecosystem Ecology,EEB 476
+Ecology and Evolutionary Biology,Laboratory in Field Ecology,EEB 477
+Ecology and Evolutionary Biology,Model-Based Statistical Inference for Ecology,EEB 480
+Ecology and Evolutionary Biology,Freshwater Ecosystems: Limnology (UMBS),EEB 482
+Ecology and Evolutionary Biology,Freshwater Ecosystems: Limnology,EEB 483
+Ecology and Evolutionary Biology,Population and Community Ecology,EEB 485
+Ecology and Evolutionary Biology,Biology and Ecology of Fish,EEB 486
+Ecology and Evolutionary Biology,Ecology of Fishes,EEB 487
+Ecology and Evolutionary Biology,Soil Ecology,EEB 489
+Ecology and Evolutionary Biology,Evolution at the Population Level,EEB 490
+Ecology and Evolutionary Biology,Phylogenetic Methods and Theory,EEB 491
+Ecology and Evolutionary Biology,Behavioral Ecology,EEB 492
+Ecology and Evolutionary Biology,Behavioral Ecology (UMBS),EEB 493
+Ecology and Evolutionary Biology,Teaching College Science,EEB 494
+Ecology and Evolutionary Biology,The Ecology of Agroecosystmes,EEB 498
+Ecology and Evolutionary Biology,Responsible Condust of Research and Scholarship in Biology,EEB 499
+Ecology and Evolutionary Biology,Field Botany of Northern Michigan,EEB 556
+Electrical Engineering and Computer Science,Thriving in a Digital World,EECS 101
+Electrical Engineering and Computer Science,Elementary Programming Concepts,EECS 183
+Electrical Engineering and Computer Science,Discrete Math,EECS 203
+Electrical Engineering and Computer Science,Introduction to Logic Design,EECS 270
+Electrical Engineering and Computer Science,Programming and Introductory Data Structures,EECS 280
+Electrical Engineering and Computer Science,Data Structures and Algorithms,EECS 281
+Electrical Engineering and Computer Science,A Programming Language of Computer System,EECS 285
+Electrical Engineering and Computer Science,Introduction to Computer Organization,EECS 370
+Electrical Engineering and Computer Science,Design of Microprocessor Based Systems,EECS 373
+Electrical Engineering and Computer Science,Foundations of Computer Science,EECS 376
+Electrical Engineering and Computer Science,Object Oriented and Advanced Programming,EECS 381
+Electrical Engineering and Computer Science,Special Topics,EECS 398
+Electrical Engineering and Computer Science,Very Large Scale Integrated Design 1,EECS 427
+Electrical Engineering and Computer Science,Mobile App Development for Entrepreneurs,EECS 441
+Electrical Engineering and Computer Science,Computer Vision,EECS 442
+Electrical Engineering and Computer Science,Computer Architecture,EECS 470
+Electrical Engineering and Computer Science,Introduction to Cryptography,EECS 475
+Electrical Engineering and Computer Science,Introduction to Algorithms,EECS 477
+Electrical Engineering and Computer Science,Logic Circuit Synthesis and Optimization,EECS 478
+Electrical Engineering and Computer Science,Software Engineering,EECS 481
+Electrical Engineering and Computer Science,Introduction to Operating Systems,EECS 482
+Electrical Engineering and Computer Science,Compiler Construction,EECS 483
+Electrical Engineering and Computer Science,Database Management Systems,EECS 484
+Electrical Engineering and Computer Science,Web Database and Information Systems,EECS 485
+Electrical Engineering and Computer Science,Interactive Computer Graphics,EECS 487
+Electrical Engineering and Computer Science,Computer Networks,EECS 489
+Electrical Engineering and Computer Science,Introduction to Artificial Intelligence,EECS 492
+Electrical Engineering and Computer Science,User Interface Development,EECS 493
+Electrical Engineering and Computer Science,Computer Game Design and Development,EECS 494
+Electrical Engineering and Computer Science,Major Design Experience Professionalism ,EECS 496
+Electrical Engineering and Computer Science,Major Design Projects,EECS 497
+Electrical Engineering and Computer Science,Special Topics,EECS 498
+Electrical Engineering and Computer Science,Advanced Directed Study,EECS 499
+Electrical Engineering and Computer Science,Electromagnetic Theory 1,EECS 530
+Electrical Engineering and Computer Science,Applied Quantum Mechanics,EECS 540
+Electrical Engineering and Computer Science,Applied Quantum Mechanics 2,EECS 541
+Electrical Engineering and Computer Science,Advanced Topics in Computer Vision,EECS 542
+Electrical Engineering and Computer Science,Knowledge-Based Systems,EECS 543
+Electrical Engineering and Computer Science,Machine Learning,EECS 545
+Electrical Engineering and Computer Science,Robotic Kinematics and Dynamics,EECS 567
+Electrical Engineering and Computer Science,Parallel Computer Architecture,EECS 570
+Electrical Engineering and Computer Science,Computational Complexity,EECS 574
+Electrical Engineering and Computer Science,Advanced Cryptography,EECS 575
+Electrical Engineering and Computer Science,Digital Systems Testing,EECS 579
+Electrical Engineering and Computer Science,Advanced Operating Systems,EECS 582
+Electrical Engineering and Computer Science,Advanced Compilers,EECS 583
+Electrical Engineering and Computer Science,Advanced Database Systems,EECS 584
+Electrical Engineering and Computer Science,Design and Analysis of Algorithms,EECS 586
+Electrical Engineering and Computer Science,Parallel Computing,EECS 587
+Electrical Engineering and Computer Science,Computer and Network Security,EECS 588
+Electrical Engineering and Computer Science,Advanced Computer Networks,EECS 589
+Electrical Engineering and Computer Science,Advanced Artificial Intelligence,EECS 592
+Electrical Engineering and Computer Science,Introduction to Adaptive Systmes,EECS 594
+Electrical Engineering and Computer Science,Natural Language Processing ,EECS 595
+Electrical Engineering and Computer Science,Special Topics,EECS 598
+English,Academic Writing and Literature,ENGLISH 124
+English,Writing and Academic Inquiry,ENGLISH 125
+English,First Year Seminar on English Language and Literature,ENGLISH 140
+English,First Year Interdisciplinary English Literature Seminar,ENGLISH 142
+English,Introduction to Women and Literature,ENGLISH 215
+English,Introduction to Sidability Studies,ENGLISH 216
+English,Literature and Writing Outside the Classroom,ENGLISH 221
+English,Creative Writing,ENGLISH 223
+English,Academic Argumentation,ENGLISH 225
+English,Directed Writing,ENGLISH 226
+English,Introductory Playwriting,ENGLISH 227
+English,Professional Writing,ENGLISH 229
+English,Introduction to Short Story and Novel,ENGLISH 230
+English,Honors Core in English Studies,ENGLISH 231
+English,Intriduction to Visual Culture,ENGLISH 232
+English,Introduction to Autobiogrophy,ENGLISH 235
+English,Introduction to Poetry,ENGLISH 240
+English,Honors Core Writing in English Studies,ENGLISH 242
+English,Introduction to Drama and Theatre ,ENGLISH 245
+English,Introduction to English Language Studies,ENGLISH 250
+English,The Bible as Literature,ENGLISH 258
+English,Introduction to British Literature,ENGLISH 260
+English,Introduction to American Literature,ENGLISH 270
+English,Introduction to Afro-American Literature,ENGLISH 274
+English,Introduction to Digital Cultures,ENGLISH 280
+English,Native Amerian Literature,ENGLISH 282
+English,Themes in Language and Literature,ENGLISH 290
+English,Topics in Language and Literature,ENGLISH 292
+English,Introduction to Literary Studies,ENGLISH 298
+English,Directed Study,ENGLISH 299
+English,Language and Rhetorical Studies,ENGLISH 303
+English,Exploring the English Language,ENGLISH 305
+English,History of the English Language,ENGLISG 308
+English,Discourse and Society,ENGLISH 310
+English,Theater of Politics,ENGLISH 311
+English,Camp Davis: History and Literature of the Rockies,ENGLISH 312
+English,Topics in Literary Studies,ENGLISH 313
+English,Gender and Sexuality Studies in Literature,ENGLISH 314
+English,Women and Literature,ENGLISH 315
+English,Disability Studies,ENGLISH 316
+English,Literature and Culture,ENGLISH 317
+English,Genre Studies,ENGLISH 318
+English,Literature and Social Change,ENGLISH 319
+English,Literature and the Environment,ENGLISH 320
+English,Creative Writing: Fiction,ENGLISH 323
+English,Creative Writing: Poetry,ENGLISH 324
+English,Art of the Essay,ENGLISH 325
+English,Community Writing and Public Culture,ENGLISH 326
+English,Intermediate Playwriting,ENGLISH 327
+English,Writing and the Environment,ENGLISH 328
+English,Environmental Writing and Great Lakes Literature,ENGLISH 329
+English,Major Directors,ENGLISH 330
+English,Film Genres and Types,ENGLISH 331
+English,Visual Culture,ENGLISH 332
+English,Autobiography,ENGLISH 335
+English,Studies in Poetry,ENGLISH 340
+English,Fantasy,ENGLISH 341
+English,Performance Studies,ENGLISH 346
+English,American Theatre and Drama,ENGLISH 349
+English,Literature in English to 1660,ENGLISH 350
+English,"Literature in English, 1660-1830",ENGLISH 351
+English,The Rise of the Novel,ENGLISH 360
+English,The Victorian Novel,ENGLISH 362
+English,The Modern Novel,ENGLISH 363
+English,The American Novel,ENGLISH 362
+English,The Contemporary Novel,ENGLISH 364
+English,Shakespeare's Contemporaries,ENGLISH 366
+English,Shakespeare's Principal Plays,ENGLISH 367
+English,World Literature in English,ENGLISH 375
+English,Literature in Afro-American Culture,ENGLISH 379
+English,Intersections: Fictions and Feminisms of the African Diaspora,ENGLISH 380
+English,Asian American Literatre,ENGLISH 381
+English,Studies in Native American Literature,ENGLISH 382
+English,Jewish Literature,ENGLISH 383
+English,Caribbean Literature,ENGLISH 384
+English,African Literature,ENGLISH 385
+English,Latina/Latino Literature of the U.S.,ENGLISH 387
+English,Pacific Literary and Cultural Studies,ENGLISH 388
+English,Literature in African History,ENGLISH 389
+English,Topics in Literary Criticism and Theory,ENGLISH 390
+English,Honors Junior Seminar,ENGLISH 397
+English,Junior Seminar in English Studies,ENGLISH 398
+English,Topics in Language and Rhetorical Studies,ENGLISH 403
+English,Theories of Writing,ENGLISH 405
+English,Topics in English Language and Literature,ENGLISH 407
+English,Varieties of English,ENGLISH 408
+English,Old English,ENGLISH 409
+English,Middle English,ENGLISH 410
+English,Art of the Film,ENGLISH 411
+English,Studies in Women and Literature,ENGLISH 415
+English,Topics in Disability Cultures,ENGLISH 416
+English,The Graphic Narrative,ENGLISH 418
+English,Tehcnology and the Humanities,ENGLISH 420
+English,Advanced Fiction Writing,ENGLISH 423
+English,Advanced Poetry Writing,ENGLISH 424
+English,Advanced Essay Writing,ENGLISH 425
+English,Directed Writing,ENGLISH 426
+English,Advanced Playwriting,ENGLISH 427
+English,Studies in Visual Culture,ENGLISH 432
+English,Modern Poetry,ENGLISH 440
+English,Contemporary Poetry,ENGLISH 441
+English,Studies in Poetry,ENGLISH 442
+English,History of Theatre 1,ENGLISH 443
+English,History of Theatre 2,ENGLISH 444
+English,Modern Drama,ENGLISH 449
+English,Studies in Medieval and Renaissance Literature,ENGLISH 450
+English,"Studies in Literature, 1600-1830",ENGLISH 451
+English,Studies in the Novel,ENGLISH 460
+English,Modern British Literature,ENGLISH 463
+English,Studies in Individual Authors,ENGLISH 464
+English,Chaucer: The Cantebury Tales,ENGLISH 465
+English,Topics in Shakespeare,ENGLISH 467
+English,Milton,ENGLISH 469
+English,Colonial and Revolutionary American Literature,ENGLISH 470
+English,19th Century American Literature,ENGLISH 471
+English,20th Century American Literature,ENGLISH 472
+English,Topics in American Literature,ENGLISH 473
+English,"The ""New Negro"" Renaissance",ENGLISH 474
+English,History of Literary Criticism and Theory,ENGLISH 490
+English,Special Topics in Language and Literature,ENGLISH  492
+English,Honors Colloquium: Drafting the Thesis,ENGLISH 495
+English,Honors Colloquium: Completing the Thesis,ENGLISH 496
+English,Directed Teaching,ENGLISH 498
+English,Directed Study,ENGLISH 499
+History,What is History?,HISTORY 101
+History,A History of the Present,HOSTORY 102
+History,Introduction to History in the Humanities,HISTORY 103
+History,Introduction to Religion,HISTORY 105
+History,The Writing of History,HISTORY 195
+History,First Year Seminar in Social Sciences,HISTORY 196
+History,First Year Seminar in the Humanities,HISTORY 197
+History,Ancient Greece to 323 B.C.E.,HISTORY 200
+History,Rome,HISTORY 201
+History,Doing History,HISTORY 202
+History,Introduction to Japanese Civilization,HISTORY 203
+History,East Asia: Early Trasformations,HISTORY 204
+History,Modern East Asia,HISTORY 205
+History,Indian Civilization,HISTORT 206
+History,Southeast Asian Civilization,HISTORY 207
+History,"Pre-Modern Europe, 300-1648",HISTORY 209
+History,"Early Medieval Europe, 300-1000",HISTORY 210
+History,"Later Medieval Europe, 1000-1500",HISTORY 211
+History,Renaissance Europe,HISTORY 212
+History,"Legacies of War, Empire and Revolution: Europe, 16448-Present",HISTORY 214
+History,The History of Disaster,HISTORY 215
+History,War and Society in the 20th Century: World War 1,HISTORY 216
+History,The Philippines: Culture and History,HISTORY 219
+History,Survey of British History from 1688,HISTORY 221
+History,Global Environmental Histiry,HISTORY 222
+History,Trashed! A History of Garbage in the Modern World,HISTORY 223
+History,Global Nuclear Proliferation,HISTORY 224
+History,The Latin Tinge: Latin Music in Social Context in Latin American and the U.S.,HISTORY 226
+History,Introduction to Historical Anthropology,HISTORY 229
+History,Humanities Topics in History,HISTORY 230
+History,Social Science Topics in History,HISTORY 231
+History,Interdisciplinary Topics in History,HISTORY 232
+History,History of Sexually Transmitted Diseases from Syphilis to AIDS ,HISTORY 233
+History,History of Medicine in the Western World from the 18th Century to the Present,HISTORY 234
+History,History of Law and Social Justice,HISTORY 235
+History,Zoom: A History of Everything,HISTORY 238
+History,The World Before 1492,HISTORY 239
+History,The World Since 1492,HISTORY 240
+History,America and Middle Eastern Wars,HISTORY 241
+History,Islamic World History,HISTORY 243
+History,The History of the Arab-Israeli Conflict,HISTORY 244
+History,Islam in Africa,HISTORY 245
+History,Africa to 1850,HISTORY 246
+History,Modern Africa,HISTORY 247
+History,Jesus Comes to Asia: Conversion and Its Consequences in Asia,HISTORY 248
+History,Introduction to Korean Civilization,HISTORY 249
+History,China from Oracle Bones to the Opium War,HISTORY 250
+History,The Chinese Renaissance: Cultural Transformations in 11th Century China,HISTORY 251
+History,Introduction to Chinese Civilization,HISTORY 252
+History,The History of Modern South Asia,HISTORY 255
+History,Ancient Law,HISTORY 257
+History,Sources of Jewish History,HISTORY 258
+History,United States to 1865,HISTORY 260
+History,"United States, 1865 to the Present",HISTORY 261
+History,The American South,HISTORY 262
+History,20th Century American Wars as Social and Personal Experience,HISTORY 266
+History,Religion in the Making of African American,HISTORY 267
+History,Introduction to the Talmud and the Rabbis,HISTORY 269
+History,Religion in America,HISTORY 270
+History,The Modern Civil Rights Movement,HISTORY 272
+History,Survey of Afro-American History 1,HISTORY 274
+History,Survey of Afro-American History 2,HISTORY 275
+History,Environmental History of the Ancient Mediterranean,HISTORY 277
+History,A History of the Economy,HISTORY 282
+History,Sickness and Health in Society: 1492 to the Present,HISTORY 284
+History,"Science, Technology , Medicine and Society",HISTORY 285
+History,Aremenian History from Prehistoric Times to the Present,HISTORY 287
+History,India Calling: Culture and Society in Contemporary India,HISTORY 288
+History,Jews and Muslims,HISTORY 290
+History,"Gender, Sex, Differences and Addiction: Girls Gone Wild",HISTORY 296
+History,The Beginning and the End: A History of Cosmology,HISTORY 300
+History,Discovery of the Universe,HISTORY 301
+History,The Roman Republic,HISTORY 302
+History,Roman Women,HISTORY 303
+History,Interdisciplinary Topics in History,HISTORY 304
+History,"History of the Ottoman Empire: The ""Classical Age"", (1300-1600)",HISTORY 306
+History,"History of the Ottoman Empire: The ""Post-Classical Age"", (1600-1922)",HISTORY 307
+History,"Eat, Pray, Love: Devotional Traditions in South Asia",HISTORY 308
+History,After Alexander: The Hellenistic Age in the Mediterranean and the Near East,HISTORY 309
+History,Globalozation in History: The Making of the Modern World,HISTORY 310
+History,History of European Integration,HISTORY 312
+History,"The Revolutionary Century: France, 1789-1900",HISTORY 313
+History,American Constitutional History,HISTORY 315
+History,Women and Gender in Medieval Europe: 500-1500,HISTORY 316
+History,"Women and Gender in Early Modern Europe, 1500-1800",HISTORY 317
+History,"Europe in the Era of the Total War, 1870-1945",HISTORY 318
+History,Europe Since 1945,HISTORY 319
+History,"Britain, 1901-1939: Culture and Politics",HISTORY 320
+History,Culture and Politics in Britain Since 1945,HISTORY 321
+History,The Origins of Nazism,HISTORY 322
+History,French Enlightment,HISTORY 323
+History,Muslims in Contemporary Europe,HISTORY 324
+History,The History of Islam in South Asia,HISTORY 325
+History,Modern Italy: 1815 to Present,HISTORY 326
+History,The History of Sexuality,HISTORY 327
+History,Humanities Topics in History,HISTORY 328
+History,Social Science Topics in History,HISTORY 329
+History,Poland in the Modern World,HISTORY 331
+History,"Russia and the Soviet Union: Reform, Revolution and the Socialist Experiment",HISTORY 332
+History,Selected Topics in Near and Middle Eastern Studies,HISTORY 334
+History,Immigration Law: Critical Approaches to Contemporary Issues,HISTORY 335
+History,"Black Women in the Unites States, Part 1: From the American Revolution through the Women's Era",HISTORY 336
+History,"Doctors in the Ancient World: China, Greece and Rome",HISTORY 339
+History,From Genghis Khan to the Taliban: Modern Central Asia,HISTORY 340
+History,Rise of the Corporation,HISTORY 343
+History,History of American Radicalism,HISTORY 346
+History,Latin America: The Colonial Period,HISTORY 347
+History,Latin America: The National Period,HISTORY 348
+History,Revolutionary Movements in Modern Latin America,HISTORY 349
+History,"Imperial China: Ideas, Men and Society",HISTORY 352
+History,Sex and Sexuality in the U.S. Popular Culture,HISTORY 353
+History,"War, Revellion and Revolution in China Through Two Centuries",HISTORY 354
+History,"Health in Aerica: Patterns, Experiences and Inequalities",HISTORY 356
+History,Topics in African History,HISTORY 357
+History,Visions of the Past,HISTORY 359
+History,Topics in Latin American History,HISTORY 358
+History,September 11,HISTORY 360
+History,"U.S. Intellectual History, 1750-1940",HISTORY 361
+History,Literature in African History,HISTORY 362
+History,"New York Modern: The Cultures of the Great Metropolis, 1800-Present",HISTORY 365
+History,American Indian History,HISTORY 367
+History,History of the Family in the U.S.,HISTORY 368
+History,The History of the U.S. Mass Culture from Minstrelsy to Hip Hop,HISTIRY 369
+History,Women and Gender in European History,HISTORY 372
+History,History of the U.S. West,HISTORY 373
+History,"The Politics and Culture of the ""Sixties""",HISTORY 374
+History,A History of Witchcraft: The 1692 Salem Trials in Historical and Cross-Cultural Perspective,HISTORY 375
+History,Epidemics: Plagues and Cultures from the Black Death to the Present,HISTORY 376
+History,History of Latina/os in the U.S.,HISTORY 377
+History,History of Asian Americans in the U.S.,HISTORY 378
+History,Ancient Jewish History to 638 CE: From Israelite Origins to Islamic Conquest,HISTORY 381
+History,Antisemitism and Philosemitism: Jews in Myth and Thought,HISTORY 384
+History,The Holocaust,HISTORY 386
+History,Black Feminist Thought and Practice,HISTORY 388
+History,Topics in Mini-Course,HOSTORY 390
+History,Topics in European History,HISTORY 391
+History,Topics in Asian History,HISTORY 392
+History,Topics in U.S. History,HISTORY 393
+History,History of Turkish Republic,HISTOYR 394
+History,Germany and the Black Diaspora,HISTORY 396
+History,Topics in History,HISTORY 399
+History,Problems in Greek History 1 ,HISTORY 400
+History,Problems in Roman History 2,HISTORY 403
+History,Pagans and Christians in the Roman World,HOSTORY 405
+History,Advanced Study in Comparative and Transnational History,HISTORY 407
+History,"The Byzantine Empire, 284-1453",HISTORY 408
+History,The Politics of Civil Liberties and Civil Rights,HISTORY 411
+History,Law and Society in Late Imperial and Modern China,HISTORY 415
+History,19th Century of German and European Intellectual History,HISTORY 416
+History,20th Century German and European Thought,HISTORY 417
+History,Religions of the African Diaspora,HISTORY 421
+History,Topics in Modern South Asian History,HISTORY 424
+History,The Rise of Islam,HISTORY 428
+History,Medieval and Early Modern Russia,HISTORY 432
+History,Russia Under the Tsars: From Peter the Great to the Revolutions of 1917,HISTORY 433
+History,"Russia in the 20th Century: War, Revolution and Reform",HISTORY 434
+History,Moddern Middle East History,HISTORY 443
+History,Topics in History,HISTORY 445
+History,Social and Intellectual History of Modern China,HISTORY 446
+History,Topics in Middle Eastern History,HISTORY 449
+History,Japan to 1700: Origion Myth to Shogun Dynasty,HISTORY 450
+History,Japan's Modern Transformations,HISTORY 451
+History,Asians in American Film and Television,HISTORY 454
+History,The History of Colonial India,HISTORY 457
+History,Colonial America,HISTORY 460
+History,Antebellum Society and the Civil War,HISTORY 463
+History,Precolonial Southest Asia,HISTORY 469
+History,From Mystic Saints to Holy Warriors: Islam in Southest Asia,HISTORY 470
+History,Topics in Asian History,HISTORY 472
+History,Brazil: History and Culture,HISTORY 473
+History,From Colonial Saint-Domingue to Independent Haiti: History and Culture of an Exeptional Colonialand Post-Colonial Territory,HISTORY 474
+History,American Business History,HISTORY 476
+History,"Law, History and the Dynamics of Social Change",HISTORY 477
+History,Topics in Latin American History,HISTORY 478
+History,Conflict and Diplomacy in the Caucasus,HISTORY 480
+History,Topics in European History,HISTORY 481
+History,Conversions and Christianities in the Early Modern World and Beyond,HISTORY 487
+History,Roman Catholicism and the Modern World,HISTORY 489
+History,"The Left in Europe: Democracy and Its Horizons, 1789-2014",HISTORY 490
+History,Topics in Economic History,HISTORY 494
+History,The World the Mongols Made,HISTORY 495
+History,History Colloquium ,HISTORY 496
+History,History Colloquium ,HISTORY 497
+History,Junior Honors Colloquiuim,HISTORY 498
+History,Senior Honors Colloquium,HISTORY 499
+History,"The Near East in the Period of the Crusades, 945-1258",HISTORY 537
+History,Topics in African History,HISTORY 595
+Macromolecular Science and Engineering,Design and Application of Biomaterials,MACROMOL 410
+Macromolecular Science and Engineering,Polymeric Materials,MACROMOL 412
+Macromolecular Science and Engineering,Polymer Physics,MACROMOL 512
+Macromolecular Science and Engineering,Composite Materials,MACROMOL 514
+Macromolecular Science and Engineering,Mechanical Behavior of Solid Polymeric Materials,MACROMOL 515
+Macromolecular Science and Engineering,Advanced Functional Polymers: Molecular Deisgn and Applications,MACROMOL 530
+Macromolecular Science and Engineering,Organic chemistry of Macromolecules,MACROMOL 538
+Macromolecular Science and Engineering,Foundations of Nanotechnology 2,MACROMOL 559
+"Molecular, Cellular and Developmental Biology",Undergraduate Research,MCDB 300
+"Molecular, Cellular and Developmental Biology",Introductory Genetics Laboratory,MCDB 306
+"Molecular, Cellular and Developmental Biology",Developmental Biology Laboratory,MCDB 308
+"Molecular, Cellular and Developmental Biology",Introductory Biochemistry,MCDB 310
+"Molecular, Cellular and Developmental Biology",Introductory Plant Physiology Lectures,MCDB 321
+"Molecular, Cellular and Developmental Biology",Synapses,MCDB 351
+"Molecular, Cellular and Developmental Biology",Neurobiology of Sensory and Motor Systems,MCDB 352
+"Molecular, Cellular and Developmental Biology",Writing in Biology,MCDB 397
+"Molecular, Cellular and Developmental Biology",Doing Science: An Introduction to Experimental Design in the Life Sciences,MCDB 399
+"Molecular, Cellular and Developmental Biology",Advanced Research,MCDB 400
+"Molecular, Cellular and Developmental Biology",Advanced Topics in Biology,MCDB 401
+"Molecular, Cellular and Developmental Biology",Molecular Biology of Pain and Sensation,MCDB 402
+"Molecular, Cellular and Developmental Biology",Molecular and Cell Biology of the Synapse,MCDB 403
+"Molecular, Cellular and Developmental Biology","Genetics, Development and Evolution",MCDB 404
+"Molecular, Cellular and Developmental Biology",Molecular Basis of Development,MCDB 405
+"Molecular, Cellular and Developmental Biology",Capstone: ntegrating Cellular and Mollecular Biology Concepts,MCDB 410
+"Molecular, Cellular and Developmental Biology",Protein Structure and Function,MCDB 411
+"Molecular, Cellular and Developmental Biology",Teaching Biology,MCDB 412
+"Molecular, Cellular and Developmental Biology",Microbial Genetics,MCDB 415
+"Molecular, Cellular and Developmental Biology",Introduction to Bioinformatics,MCDB 416/ EEB 416
+"Molecular, Cellular and Developmental Biology",Chromosome Structure and Function,MCDB 417
+"Molecular, Cellular and Developmental Biology",Endocrinology,MCDB 418
+"Molecular, Cellular and Developmental Biology",Endocrinology Laboratiry,MCDB 419
+"Molecular, Cellular and Developmental Biology",Topics in Cellular and Molecular Neurobiology,MCDB 421
+"Molecular, Cellular and Developmental Biology","Brain Development, Plasticity and Circuits ",MCDB 422
+"Molecular, Cellular and Developmental Biology",Introduction to Research in Cellular and Molecular Neurobiology,MCDB 423
+"Molecular, Cellular and Developmental Biology",Behavioral Neurobiology Laboratory,MCDB 424
+"Molecular, Cellular and Developmental Biology",Molecular Endocrinology,MCDB 426
+"Molecular, Cellular and Developmental Biology",Molecular Biology,MCDB 427
+"Molecular, Cellular and Developmental Biology",Cell Biology,MCDB 428
+"Molecular, Cellular and Developmental Biology",Laboratory in Cell and Molecular Biology,MCDB 429
+"Molecular, Cellular and Developmental Biology",Molecular Biology of Plants,MCDB 430
+"Molecular, Cellular and Developmental Biology",Plant Metabolic Biochemistry,MCDB 433
+"Molecular, Cellular and Developmental Biology",Intracellular Trafficking,MCDB 435
+"Molecular, Cellular and Developmental Biology",Introductory Immunology,MCDB 436
+"Molecular, Cellular and Developmental Biology",Microbial Communication and Development,MCDB 437
+"Molecular, Cellular and Developmental Biology",Cell Cycle Control and Cancer,MCDB 440
+"Molecular, Cellular and Developmental Biology",Cell Biology and Disease,MCDB 441
+"Molecular, Cellular and Developmental Biology",Bacterial Cell Biology,MCDB 444
+"Molecular, Cellular and Developmental Biology",Genetics and Molecular Biology of Complex Behavior,MCDB 450
+"Molecular, Cellular and Developmental Biology",Ion Channels and their Channeopathies,MCDB 453
+"Molecular, Cellular and Developmental Biology",Cytoskeletal Dynamics,MCDB 454
+"Molecular, Cellular and Developmental Biology",Cell Biology of Neurodegeneration,MCDB 455
+"Molecular, Cellular and Developmental Biology","Genes, Circuits and Behavior",MCDB 456
+"Molecular, Cellular and Developmental Biology",Neurobiology of Sexual and Aggressive Behaviors,MCDB 457
+"Molecular, Cellular and Developmental Biology",Brain States and Behavior,MCDB 459
+"Molecular, Cellular and Developmental Biology",Epigenetics,MCDB 462
+"Molecular, Cellular and Developmental Biology",Advanced Methods in Biochemistry,MCDB 471
+"Molecular, Cellular and Developmental Biology",Microbial Genes and Genomes,MCDB 489
+"Molecular, Cellular and Developmental Biology",Responsible Conduct of Research and Scholarship in Biology,MCDB 499/EEB 499
+Philosophy,Philosophical Dimensions of Personal Decisions,PHIL 151
+Philosophy,Philosophy of Human Nature,PHIL 152
+Philosophy,Philosophy and the Arts,PHIL 153
+Philosophy,Science Fiction and Philosophy,PHIL 154
+Philosophy,The Nature of Science,PHIL 155
+Philosophy,Introduction to Ancient Philosophy,PHIL 157
+Philosophy,Philosophy and Narrative,PHIL 158
+Philosophy,Moral Principles and Problems,PHIL 160
+Philosophy,The University of Michigan: A Moral Institute?,OHIL 162
+Philosophy,Introductory Logic,PHIL 180
+Philosophy,Philosophical Issues: An Introduction,PHIL 181
+Philosophy,Critical Thinking,PHIL 183
+Philosophy,First Year Seminar,PHIL 196
+Philosophy,Introduction to Philosophy,PHIL 202
+Philosophy,Global Justice,PHIL 224
+Philosophy,Introduction to Buddhism,PHIL 230
+Philosophy,Problems of Philosophy,PHIL 232
+Philosophy,Introduction to Philosophy: Types pf Philosophy,PHIL 234
+Philosophy,Environmental Ethics: Philosophical Underpinnings,PHIL 240
+Philosophy,Introduction to Philosophy of Religion,PHIL 262
+Philosophy,Introduction to Chinese Philosophy,PHIL 263
+Philosophy,Second Year Seminar in Philosophy,PHIL 286
+Philosophy,Honors Core in Philosophy,PHIL 295
+Philosophy,Honors Introduction to Logic,PHIL 269
+Philosophy,Honors Introduction to Philosophy,PHIL 297
+Philosophy,Introduction to Symbolic Logic,PHIL 303
+Philosophy,The World-View of Modern Science,PHIL 320
+Philosophy,The Methods of Science,PHIL 322
+Philosophy,Introduction to Indian Philosophy,PHIL 331
+Philosophy,Post-Biblical Jewish Philosophy,PHIL 334
+Philosophy,Minds and Machines,PHIL 340
+Philosophy,Language and Mind,PHIL 345
+Philosophy,Contemporary Moral Problems,PHIL 355
+Philosophy,Issues in Bioethics,PHIL 356
+Philosophy,Law and Philosophy,PHIL 359
+Philosophy,Ethics,PHIL 361
+Philosophy,Introduction to Political Philosophy,PHIL 366
+Philosophy,Phenomenology and Existential Philosophy,PHIL 371
+Philosophy,Nietzsche's Philosophical Though,PHIL 375
+Philosophy,Environmental Ethics-Living Well and Nature,PHIL 376
+Philosophy,Science and Objectivity,PHIL 381
+Philosophy,Knowledge and Reality,PHIL 383
+Philosophy,History of Philosophy: Ancient,PHIL 388
+Philosophy,History of Philosophy: Seventeenth and Eighteenth Centuries,PHIL 389
+Philosophy,Undergraduate Honors Seminar,PHIL 401
+Philosophy,Undergraduate Seminar in Philosophy,PHIL 402
+Philosophy,Aristotle,PHIL 406
+Philosophy,Philosophy ad Economics,PHIL 408/ECON 408
+Philosophy,Philosophy of Language,PHIL 409
+Philosophy,Formal Philosophical Methods,PHIL 413
+Philosophy,Mathematical Logic,PHIL 414
+Philosophy,Philosophy of Science,PHIL 420
+Philosophy,Problems of Space and Time,PHIL 423
+Philosophy,Philosophy of Biology,PHIL 425
+Philosophy,Philosophy and Linguistic Theory,PHIL 426
+Philosophy,Ethical Analysis,PHIL 429
+Philosophy,Topics in Ethics,PHIL 430
+Philosophy,Aesthetics,PHIL 439
+Philosophy,Philosophy of Film,PHIL 440
+Philosophy,Topics in Political Philosophy,PHIL 442
+Philosophy,Foundations of Rational Choice Theory,PHIL 443
+Philosophy,Philosophy of Kant,PHIL 458
+Philosophy,Medieval Philosophy,PHIL 463
+Philosophy,The Scientific Revolution,PHIL 464
+Philosophy,Topics in Continental Philosophy,PHIL 466
+Philosophy,The Enlightenment and Skepticism,PHIL 467
+Philosophy,Topics in 20th Century Philosophy,PHIL 475
+Philosophy,Philosophy of Re;igion,PHIL 480
+Philosophy,Metaphysics,PHIL 481
+Philosophy,Philosophy of Mind,PHIL 482
+Philosophy,Philosophy of Action,PHIL 485
+Philosophy,Wittgenstein,PHIL 487
+Philosophy,Senior Honors in Philosophy,PHIL 498
+Philosophy,Senior Honors in Philosophy,PHIL 499
+Physics,Everyday Physics,PHYSICS 106
+Physics,"20th Century Concepts of Space, Time and Matter",PHYSICS 107
+Physics,Natural Science: Bridging the Gaps,PHYSICS 109/CHEM 109
+Physics,Cosmology: The Science of the Universe,PHYSICS 112
+Physics,Physics First Year Seminar in Natural Sciences,PHYSICS 114
+Physics,Principles of Physics,PHYSICS 115
+Physics,From Quarks to Cosmos,PHYSICS 116
+Physics,The Physical World,PHYSICS 119/CHEM 108
+Physics,Foundations of Physics,PHYSICS 121
+Physics,Physics for the Life Sciences 1,PHSYICS 135
+Physics,Physics fro the Life Sciences Laboratory 1,PHYSICS 136
+Physics,General Physics,PHYSICS 145
+Physics,Honors Physics 1,PHYSICS 160
+Physics,Honors Introductory Mechanics Lab,PHYSICS 161
+Physics,"The Physical Universe: An Introduction to Modern Physics, Astrophysics and Cosmology",PHYSICS 169
+Physics,Energy for the Future,PHYSICS 210
+Physics,Physics for the Life Sciences 2,PHYSICS 235
+Physics,Physics fro the Life Sciences Laboratory 2,PHYSICS 236
+Physics,General Physics 2,PHYSICS 240
+Physics,Elementary Laboratory 2,PHYSICS 241
+Physics,Honors Physics 2,PHYSICS 260
+Physics,Honors Electricity and Magnetism Lab,PHYSICS 261
+Physics,Physics of Music,PHYSICS 288
+Physics,Physics of the Body qnd Mind,PHSYICS 290
+Physics,"Waves, Heat and Light Lab",PHYSICS 341
+Physics,Methods of Theoretical Physics 1,PHYSICS 351
+Physics,Honors Physics 3,PHYSICS 360
+Physics,Cyberscience: ComputationalScience and the Rise of Fourth Paradigm,PHYSICS 365
+Physics,Physical and Chemical Principles Behind Biology and Medicine,PHYSICS 370
+Physics,Introduction to Modern Physics,PHYSICS 390
+Physics,Introduction to Moern Physics Lab,PHYSICS 391
+Physics,Intermediate Mechanics,PHYSICS 401
+Physics,Optics,PHYSICS 402
+Physics,Intermediate Electricity and <agnetism,PHYSICS 405
+Physics,Statistical and Thermal Physics,PHYSICS 406
+Physics,Introduction to Computational Physics,PHYSICS 411
+Physics,Introduction to Nonlinear Dynamics and the Physics of Complexity,PHYSICS 413
+Physics,Special Problems for Undergraduates,PHYSICS 415
+Physics,Dynamical Processes in Biophysics,PHYSICS 417/BIOPHYS 417/CHEM 417
+Physics,Physics for Educators,PHYSICS 420
+Physics,Biocompexity,PHYSICS 433/BIOPHYS 433
+Physics,Gravitational Physics,PHYSICS 435
+Physics,Advanced Laboratory 1,PHYSICS 441
+Physics,Advanced Laboratory 2,PHYSICS 442
+Physics,Laboratory Techniques in Biophysics,PHYSICS 450/BIOPHYS 450
+Physics,Methods of Theoretical Physics 2,PHYSICS 452
+Physics,Quantum Mechanics,PHYSICS 453
+Physics,Particle Physics and Cosmology,PHYSICS 457
+Physics,Quantum Mechanics 2,PHYSICS 460
+Physics,Introduction to Solid State Physics,PHYSICS 463
+Physics,Senior Seminar,PHYSICS 465
+Physics,"Science, Technology and Public Policy",PHYSICS 481
+Physics,Senior Thesis 1,PHYSICS 496
+Physics,Senior Thesis 2,PHYSICS 497
+Physics,Introduction to Research for Honors Students,PHYSICS 498
+Physics,Introduction to Research for Honors Students,PHYSICS 499
+Psychology,Introduction to Psychology,PSYCH 111
+Psychology,Introduction to Psychology asa Natural Science,PSYCH 112
+Psychology,"Gender, Sex and Sexuality in Science ad Medicine",PSYCH 119
+Psychology,First Year Seminar in Psychology as a Social Science,PSYCH 120
+Psychology,First Year Seminar in Psychology as a Natural Science,PSYCH 121
+Psychology,Intergroup Dialogues,PSYCH 122/SCOC 122
+Psychology,Sophomore Seminar in Psychology as a Social Science,PSYCH 218
+Psychology,Introduction to Biopsychology for Non-BCN or Non-Neuroscience majors,PSYCH 220
+Psychology,Psychology oh Human Sexuality,PSYCH 225
+Psychology,Undergraduate Research in Psychology,PSYCH 226
+Psychology,Introduction to Behavioral Neuroscience,PSYCH 230
+Psychology,Introduction to Cognitive Psychology,PSYCH 240
+Psychology,Language and Human Mind,PSYCH 242
+Psychology,Cognitive Neuroscience,PSYCH 245
+Psychology,Introduction to Developmental Psychology,PSYCH 250
+Psychology,Introduction to Organizational Psychology,PSYCH 260
+Psychology,Introduction to Psychopqthology,PSYCH 270
+Psychology,Introduction to Social Psychology,PSYCH 280
+Psychology,Introduction to Psychology of Personality,PSYCH 290
+Psychology,Introduction to Psychology of Women and Gender ,PSYCH 291
+Psychology,"Gender, Sex Differences and Addiction: Girls Gone Wild",PSYCH 296/HISTORY 296
+Psychology,Research Methods in Cognitive Neuroscience,PSYCH 302
+Psychology,Research Methods in Psychology,PSYCH 303
+Psychology,Practicum in Psychology,PSYCH 305
+Psychology,Prohject Outreacg Group Leading,PSYCH 306
+Psychology,Directed Experiences with Children,PSYCH 307
+Psychology,Peer Advising Practicum in Psychology,PSYCH 308
+Psychology,Processes of Intergroup Dialogues Facilitation,PSYCH 310/SOC 320
+Psychology,Practicum in Facilitating Intergroup Dialogues,PSYCH 311/SOC 321
+Psychology,"Intergroup Conflict and Coexistence: Religion, Ethnicity and culture",PSYCH 312/SOC 375
+Psychology,The World of the Black Child,PSYCH 316
+Psychology,Community Research,PSYCH 317
+Psychology,Media and Violence,PSYCH 318
+Psychology,Empowering Families and Communities,PSYCH 319
+Psychology,"Field Practicu, in Research Techniques for Psychology as a Natural Science",PSYCH 322
+Psychology,"Field Practicu, in Research Techniques for Psychology as a Social Science",PSYCH 323
+Psychology,Advanced Practicum in Intergroup Relations,PSYCH 324/SOC 324
+Psychology,Practicum in the Multicultural Community,PSYCH 325
+Psychology,Faculty Directed Early Research for Psychology as a Natural Science,PSYCH 326
+Psychology,Faculty Directed Early Research for Psychology as a Social Science,PSYCH 327
+Psychology,Research Lab for Psychology as a Natural Science,PSYCH 328
+Psychology,Topics in Biopsychology,PSYCH 330
+Psychology,"Research Methids in Brain, Behavior and Cognitive Science",PSYCH 331
+Psychology,Biological Rhythms and Behavior,PSYCH 332
+Psychology,Affective Neuroscience,PSYCH 333
+Psychology,Neuroscience of Learning and Memory,PSYCH 334
+Psychology,Introduction to Animal Behavior,PSYCH 335
+Psychology,"Drugs of Abuse, Brain and Behavior",PSYCH 336
+Psychology,Hormones and Behavior,PSYCH 337
+Psychology,Primate Social Behavior 1,PSYCH 338
+Psychology,Biopsychology of Cooperation,PSYCH 339
+Psychology,Topics in Cognition and Cognitive Neuroscience,PSYCH 340
+Psychology,Advanced Laboratory in Cognitive Psychology,PSYCH 341
+Psychology,Cognitive Neuroscience of Learning and Memory,PSYCH 343
+Psychology,Second Language Acquisition,PSYCH 344
+Psychology,Introduction to Human Neuropsychology,PSYCH 345
+Psychology,Learning and Memory,PSYCH 346
+Psychology,Perception ,PSYCH 347
+Psychology,Talking Minds,PSYCH 349
+Psychology,Advanced Laboratory in Developmental Psychology,PSYCH 351
+Psychology,Development of Language and Thought,PSYCH 352
+Psychology,Social Development,PSYCH 353
+Psychology,Cognitive Development,PSYCH 355
+Psychology,Educational Psychology,PSYCH 356
+Psychology,Psychology of Adolescence,PSYCH 358
+Psychology,Psychology of Aging,PSYCH 359
+Psychology,Advanced Laboratory in Psychopathology,PSYCH 371
+Psychology,Advanced Laboratory in Social Psychology,PSYCH 381
+Psychology,Behavior and Environment,PSYCH 384
+Psychology,The Psychology of Environmental Stewardship,PSYCH 385
+Psychology,Advanced Laboratory in Personality,PSYCH 391
+Psychology,Political Psychology,PSYCH 393
+Psychology,"Sex, Sexuality ad Public Policy",PSYCH 394
+Psychology,Soecial Problems in Psychology as a Natural Science,PSYCH 400
+Psychology,Soecial Problems in Psychology as a Social Science,PSYCH 401
+Psychology,Special Problems in Psychology,PSYCH 402
+Psychology,Field Practicum,PSYCH 404
+Psychology,Field Practicum in a University Setting,PSYCH 405
+Psychology,"Perception, Science and Reality",PSYCH 408
+Psychology,IGR Senior Capstone: Social Justice in the Real World,PSYCH 411/SOC 471
+Psychology,A History of Modern Psychology,PSYCH 413
+Psychology,Sexuality and Science,PSYCH 414
+Psychology,Psychology and Spiritual Development,PSYCH 418
+Psychology,Senior Honors Research 1 for Psychology as a Natural Science,PSYCH 424
+Psychology,Senior Honors Research 2 for Psychology as a Natural Science,PSYCH 426
+Psychology,Senior Thesis: Research in Psychology as a Natural Science,PSYCH 428
+Psychology,Senior Thesis: Research in Psychology as a Sociall Science,PSYCH 429
+Psychology,Advanced Topics in Biopsychologyq,PSYCH 430
+Psychology,Advanced Topics in Behavioral Neuroscience,PSYCH 431
+Psychology,Advanced Topics in Evolutionary and Comparative Psychology,PSYCH 432
+Psychology,Advanced Topics in Neuroscience,PSYCH 433
+Psychology,Neuroscience of Fear and Anxiety,PSYCH 434
+Psychology,Current Topics in Biopsychology,PSYCH 437
+Psychology,Advanced Topics in Cognitive Neuroscience,PSYCH 440
+Psychology,Neuroscience and Society,PSYCH 441
+Psychology,Cognitive Neuroscience of Expertise,PSYCH 442
+Psychology,Creativity,PSYCH 443
+Psychology,Psychology of Language,PSYCH 445
+Psychology,Current Topics in Cognition and Cognitive Neuroscience,PSYCH 447
+Psychology,Mathematical Psychology,PSYCH 448
+Psychology,Decision Processes,PSYCH 449
+Psychology,Human Infancy,PSYCH 456
+Psychology,Current Topics in Developmental Psychology,PSYCH 457
+Psychology,Current Topics in Otganizational Psychology,PSYCH 467
+Psychology,Introduction to Behavior Theory,PSYCH 474
+Psychology,Positive Psychology,PSYCH 476
+Psychology,Current Topics in Clinical Psychology,PSYCH 477
+Psychology,Clinical Psychology,PSYCH 478
+Psychology,Current Topics in Social Psychology,PSYCH 487
+Psychology,Sociological Analysis of Deviance,PSYCH 488
+Psychology,Psychological Perspectives on Culture and Ethnicity,PSYCH 493
+Psychology,Adolescent Sexuality,PSYCH 494
+Psychology,Curent Topics in Personality Psychology,PSYCH 497
+Psychology,Advanced Topics in Comparative and Evolutionary Psychology,PSYCH 530
+Psychology,Advanced Topics in Biopsychology,PSYCH 531
+Psychology,Mammalian Reproductive Physiology,PSYCH 532
+Psychology,Advanced Topics in Clinical Psychology,PSYCH 571
+Sociology,Introduction to Sociology,SOC 100
+Sociology,Introduction to Sociology: Special Topics,SOC 102
+Sociology,First Year Seminar in Sociology,SOC 105
+Sociology,Intergroup Dialogues,SOC 122/PSYCH 122
+Sociology,Honors Introduction to Sociology,SOC 195
+Sociology,Sociology of Multiculturalism,SOC 203
+Sociology,Animals and Society,SOC 206
+Sociology,Social Suffering,SOC 207
+Sociology,Elementary Statistics,SOC 210
+Sociology,Foundations of Intergroup Relations,SOC 218
+Sociology,Political Economy,SOC 220
+Sociology,Practicum in Sociology,SOC 225
+Sociology,Health and Population in South Africa,SOC 230
+Sociology,South Africa in Transition: Field Experience,SOC 235
+Sociology,Sociology of Music,SOC 255
+Sociology,"Tipping Points, Bandwagons and Cascades: From Individual Behavior to Social Dynamics",SOC 260
+Sociology,Gender and the Law,SOC 270
+Sociology,Topics in Sociology,SOC 295
+Sociology,Sociological Principles and Problems,SOC 300
+Sociology,Rac and Ethnic Relations,SOC 303
+Sociology,American Immigration,SOC 304
+Sociology,Introduction to Sociological Theory,SOC 305
+Sociology,Sociological Research Methods,SOC 310
+Sociology,Social Science Theory 1: From Social Contract to Oedipus Complex,SOC 313
+Sociology,Economic Sociology,SOC 315
+Sociology,Processes of Intergroup Dialogues Facilitation,SOC 320
+Sociology,Practicum in Facilitating Intergroup Dialogues,SOC 321/PSYCH 311
+Sociology,Advanced Practicum in Intergroup Relations,SOC 324/PSYCH 324
+Sociology,Sociology of Service Learning,SOC 325
+Sociology,Marriage and the Family: A Sociological Perspective,SOC 344
+Sociology,Sociology of Sexuality,SOC 345
+Sociology,Sociology of the Bidy,SOC 346
+Sociology,Human Rights in the United Nations,SOC 350
+Sociology,Law and Society,SOC 354
+Sociology,Criminology,SOC 368
+Sociology,"Intergroup Conflict and Coexistence: Religion, Ethnicity and Culture",SOC 375/ PSYCH 312
+Sociology,"Sports, Politics and Society",SOC 379
+Sociology,Environmental Public Opinion Analysis,SOC 380
+Sociology,"Russia and the Soviet Union: Reform, Revolution and the Socialist Experiment",SOC 392/HISTORY 332
+Sociology,"East Central Europe: Nationalism, Socialism, Democracy ",SOC 393
+Sociology,Undergraduate Research,SOC 394
+Sociology,Independent Study,SOC 395
+Sociology,Professional Writing and Sociology,SOC 398
+Sociology,Contemporary China,SOC 428
+Sociology,World Population Dynamics,SOC 430
+Sociology,Social Organization of Black Communities,SOC 434
+Sociology,Urban Inequality and Conflict,SOC 435
+Sociology,Sociology of Gender,SOC 447
+Sociology,Political Sociology,SOC 450
+Sociology,Women and Work,SOC 451
+Sociology,Religion and Society,SOC 455
+Sociology,Sociology of Education,SOC 458
+Sociology,Social Movements,SOC 461
+Sociology,Sociological Analysis of Deviance,SOC 465/PSYCH 488
+Sociology,IGR Senior Capstine: Social Justicein the Real World,SOC 471
+Sociology,Advanced Laboratory in Social Psychology,SOC 471/PSYCH 381
+Sociology,Introduction to Medical Sociology,SOC 475
+Sociology,Sociology of Bioethics,SOC 476
+Sociology,"Organizing: People, Power and Change",SOC 489
+Sociology,Women and Islam: A Sociological Perspective,SOC 490
+Sociology,Topics in Sociology,SOC 495
+Sociology,Honors: Proposal Writing,SOC 497
+Sociology,Honors: Data Collection and Analysis,SOC 498
+Sociology,Honors: Thesis Writing,SOC 499
+Statistics,"Games, Gambling and Coincidences",STATS 125
+Statistics,Making Sense of Data,STATS 150
+Statistics,AS Statistics,STATS 180
+Statistics,Introduction to Statistics and Data Analysis,STATS 250
+Statistics,Applied Statistical Methods 2,STATS 401
+Statistics,Introduction to Quantitative Research Methods,STATS 403
+Statistics,Effective Communication in Statistics,STATS 404
+Statistics,Introduction to Probability and Statistics,STATS 412
+Statistics,Special Topics in Statistics,STATS 414
+Statistics,Data Minimg and Statistical Learning,STATS 415
+Statistics,Introduction to Probability,STATS 425/MATH 435
+Statistics,Introduction to Theoretical Statistics,STATS 426
+Statistics,Applied Probability,STATS 430
+Statistics,Topics in Biostatistics,STATS 449
+Statistics,Introduction to the Design of Experiments,STATS 470
+Statistics,Survey Sampling Techniques,STATS 480
+Statistics,Capstone Seminar,STATS 485
+Statistics,Independent Study in Statistics,STATS 489
+Statistics,Honors Seminar,STATS 499
+Statistics,Applied Statistics 1,STATS 500
+Statistics,Statistical Consulting,STATS 504
+Statistics,Probability Theory,STATS 525/MATH 525
+Statistics,Discrete State Stochastic Processes,STATS 526/MATH 526
+Information,"Programs, Information and People",UMSI 106
+Information,Introduction to Information Studies,UMSI 110
+Information,Data-Oriented Programming,UMSI 206
+Information,Models of Social Information Processing,UMSI 301
+Information,Information Environments and Work,UMSI 310
+Information,Special Topics in Information,UMSI 311
+Information,Interpersonal and Psychological Implications of Social Media,UMSI 315
+Information,Designing and Analyzing Social Media Effects,UMSI 316
+Information,Graphic Design,UMSI 320
+Information,Data Manipulation,UMSI 330
+Information,Persuation and Social Influence,UMSI 334
+Information,Social Media in Organizations,UMSI 335
+Information,Experiment Deisgn,UMSI 340
+Information,Busting Myths and Pursuing Information Innovations with Mobile Apps,UMSI 363
+Information,Building Interactive Applications,UMSI 364
+Information,Cyberscience: Computational Science and the Rise of the Forth Paradigm,UMSI 365
+Information,Data Exploration,UMSI 370
+Information,"Putting the H in HCI: Human Perception, Cognition and Mental Processes",UMSI 388
+Information,Fundamentals of Survey Methodology,UMSI 400
+Information,Information Analysis Final Project Preparation Course,UMSI 405
+Information,User Experience Final Project Preparation Course,UMSI 407
+Information,Ethics and Information Technology,UMSI 410
+Information,Needs Assessment and Usability Evaluation,UMSI 422
+Information,Introduction to User Modeling,UMSI 425
+Information,Online Communities: Analysis and Design of Online Interaction,UMSI 429
+Information,Information Technology and Global Society,UMSI 430
+Information,Interaction Design Studio,UMSI 482
+Information,Information Analytics Project,UMSI 487
+Information,Information in Social Systems,UMSI 500
+Information,Contextual Inqury and Consulting Foundations,UMSI 501
+Information,"Networked Computing: Storage, Communication and Processing",UMSI 502
+Information,Programming 1,UMSI 506
+Information,Designing for Engagement,UMSI 512
+Information,Special Topics,UMSI 514
+Information,Engineering Applications of Media Technology,UMSI 515
+Information,Intellectual Property and Information Law,UMSI 519
+Information,Graphic Deisgn,UMSI 520
+Information,Advanced Psychoacoustics,UMSI 521
+Information,Information and Control,UMSI 523
+Information,Evaluation Methods in Health Informatics,UMSI 525
+Information,Managing Organizational Information Assets,UMSI 528
+Information,Online Communities,UMSI 529
+Information,Principles in Management,UMSI 530
+Information,Human Interaction in Information Retrieval,UMSI 531
+Information,Theories of Social Influence,UMSI 534
+Information,Citizen Interaction Design,UMSI 538
+Information,Design of Complex Websites,UMSI 539
+Information,Introduction to Health Informatics,UMSI 542
+Information,Programming 1,UMSI 543
+Information,Introduction to Statistics and Data Analysis,UMSI 544
+Information,Principles of Software Design for Learning,UMSI 548
+Information,Transformative Learning and Teaching with Technology,UMSI 549
+Information,Behavior and Experience of Information Users,UMSI 551
+Information,Technology & Accessibility,UMSI 552
+Information,Consumer Health Informatics,UMSI 54
+Information,Natural Language Processing,UMSI 561
+Information,Game Theory,UMSI 563
+Information,Semantics-Based Knowledge Descriptions and Organization,UMSI 570
+Information,Health Informatics Program Seminar 1,UMSI 573
+Information,Health Informatics Program Seminar 2,UMSI 574
+Information,Understanding Records and Archives: Principles and Practices,UMSI 580
+Information,Preservation Administration,UMSI 581
+Information,Introduction to Interaction Design,UMSI 582
+Information,Fundamentals of Human Behavior,UMSI 588
+Information,Data Manipulation,UMSI 601
+Information,Personal Informatics Design,UMSI 606
+Information,Networks,UMSI 608
+Information,Population Health Informatics,UMSI 611
+Information,Pervasive Interaction Design,UMSI 612
+Information,Advanced Topics in Graphic Design and Communication,UMSI 616
+Information,Choice Architecture,UMSI 617
+Information,Exploratory Data Analysis,UMSI 618
+Information,Collection Development and Management,UMSI 620
+Information,Needs Assessment and Usability Evaluation,UMSI 622
+Information,Research Methods for Information Professionals,UMSI 623
+Information,Digital Preservation,UMSI 625
+Information,Managing the IT Organization,UMSI 627
+Information,Access Systems,UMSI 629
+Information,Agile Software Development for Content Management Systems,UMSI 631
+Information,Appraisal of Archives,UMSI 632
+Information,Content Management Systems Configuration and Site Building,UMSI 634
+Information,Content Management Systems and Web Frameworks,UMSI 635
+Information,"Markerspaces, Maker Culture and Maker Tools",UMSI 636
+Information,Research Seminar on Archives and Institutions of Social Memory,UMSI 637
+Information,Web Archiving ,UMSI 639
+Information,Digital Libaries and Archives,UMSI 640
+Information,Information Economics,UMSI 646
+Information,Information Resources and Services,UMSI 647
+Information,Information Visualization,UMSI 649
+Information,Information Retrieval,UMSI 650
+Information,Critical Poicy Issues in Health IT,UMSI 654
+Information,Records and Accountability in Modern Society,UMSI 655
+Information,Information Architecture,UMSI 658
+Information,Managing Health Informatics,UMSI 661
+Information,Entrepreneurship in the Information Industry,UMSI 663
+Information,Database Application Design,UMSI 664
+Information,Online Searching and Databases,UMSI 665
+Information,Organization of Information Resources,UMSI 666
+Information,Data Mining: Methods and Applications,UMSI 671
+Information,Digitization Cultural Heritage Materials,UMSI 675
+Information,Preserving Sound and Motion,UMSI 678
+Information,Designing Condumer Health Technologies,UMSI 684
+Information,User-Generated Content,UMSI 686
+Information,Advanced Project and Social Computing Design,UMSI 694
+Information,Mastery Interaction Design: Civil Technology,UMSI 695
+Chemical Engineering,Introduction to Material and Energy Balances,CHE 230
+Chemical Engineering,"Directed Study, Research and Special Problems",CHE 290
+Chemical Engineering,Chemical and Engineering Thermodynamics,CHE 330
+Chemical Engineering,Fluid Mechanics,CHE 341
+Chemical Engineering,Mass and Heat Transfer,CHE 342
+Chemical Engineering,Separation Processes,CHE 343
+Chemical Engineering,Reaction Engineering and Design,CHE 344
+Chemical Engineering,Chemical Engineering Laboratory 1,CHE 360
+Chemical Engineering,Problem Solving and Troubleshooting in the Workplace,CHE 405/ENGR 405
+Chemical Engineering,Polymeric Materials ,CHE 412
+Chemical Engineering,Engineering Statistics and Problem Solving,CHE 431
+Chemical Engineering,Applied Chemical Kinetics,CHE 444
+Chemical Engineering,Chemical Engineering Laboratory 2,CHE 460
+Chemical Engineering,Process Dynamics and Control,CHE 466
+Chemical Engineering,Colloids and Interfaces,CHE 470
+Chemical Engineering,Polymer Science and Engineering,CHE 472
+Chemical Engineering,Chemical Engineering Process Economics,CHE 485
+Chemical Engineering,Process Simulation and Design,CHE 487
+Chemical Engineering,Chemical Product Design 1,CHE 488
+Chemical Engineering,Chemical Product Design 2,CHE 489
+Chemical Engineering,"Advanced Directed Study, Research and Problems",CHE 490
+Chemical Engineering,Special Topics in Chemical Engineering,CHE 496/CHE 497
+Chemical Engineering,Environmental Systems and Processes,CHE 500
+Chemical Engineering,Applied Mathematics for Chemical Engineers,CHE 505
+Chemical Engineering,Mathematical Methods in Chemical Engineering,CHE 510
+Chemical Engineering,Theology of Polymeric Materials,CHE 511
+Chemical Engineering,Physical Polymers ,CHE 512
+Chemical Engineering,Applied Pharmacokinetics and Toxicokinetics,CHE 516
+Chemical Engineering,Biochemical Engineering,CHE 517
+Chemical Engineering,Pharmaceutical Engineering,CHE 519
+Chemical Engineering,Population Pharmacokinetics,CHE 520
+Chemical Engineering,Fluid Flow,CHE 527
+Chemical Engineering,Chemical Reactor Engineering,CHE 528
+Chemical Engineering,Introduction to Chemoinformatics,CHE 531
+Chemical Engineering,Statistical and Irrevesible Thermodynamics,CHE 538
+Chemical Engineering,Mathematical Methods for Biological Network Analysis,CHE 540
+Chemical Engineering,Intermediate Transport Phenomena,CHE 542
+Chemical Engineering,Advanced Seperation Processes,CHE 543
+Chemical Engineering,Electrochemical Engineering,CHE 548
+Chemical Engineering,Computational Methods in MS&E and CHE,CHE 554
+Chemical Engineering,Computational Nanoscience of Soft Matter,CHE 557
+Chemical Engineering,Foundations of Nanotechnology,CHE 558
+Chemical Engineering,Foundations of Nanotechnology 2,CHE 559
+Chemical Engineering,Biomolecular Engineering in Interfaces,CHE 563
+Chemical Engineering,Fuel Cells and Fuel Processors,CHE 568
+Chemical Engineering,Engineering Principles in Drug Delivery and Targeting,CHE 574
+Chemical Engineering,Molecular Heterogeneous Catalysis and Electro Catalysis,CHE 578
+Chemical Engineering,Tissue Engineering,CHE 584
+Chemical Engineering,Gobal Quality Systems and Regulatory Innovation,CHE 588
+Chemical Engineering,Chemical Engineering Research Survey,CHE 595
+Chemical Engineering,Health Science and Engineering Seminar,CHE 596
+Chemical Engineering,"Regulatory Issues for Scientists, Engineers and Managers",CHE 597
+Chemical Engineering,Advanced Special Topics in Chemical Engineering,CHE 598
+Chemical Engineering,Chemical Engineering Seminar,CHE 601
+Chemical Engineering,Microfluidic Science and Engineering,CHE 606
+Chemical Engineering,Analysis of Chemical Signaling,CHE 616
+Chemical Engineering,Advanced Biochemical Technology,CHE 617
+Chemical Engineering,Industrial Catalysis,CHE 628
+Chemical Engineering,Complex Fluids,CHE 629
+Chemical Engineering,Case Studies in Environmental Sustainability,CHE 686
+Chemical Engineering,Research Problems in Chemical Engineering,CHE 695
+Entrepreneurship,Special Topics in Entrepreneurship,ENTR 390
+Entrepreneurship,Entrpreneurship Hour,ENTR 407
+Entrepreneurship,Patent Law,ENTR 408
+Entrepreneurship,Venture Business Development,ENTR 409
+Entrepreneurship,Finding Your Venture,ENTR 410
+Entrepreneurship,Entrepreneurial Practicum,ENTR 411
+Entrepreneurship,Advanced Entrepreneurship Practicum,ENTR 412/413
+Entrepreneurship,Entrepreneurial Hour Discussion Session,ENTR 417
+Entrepreneurship,Special Topics in Entrepreneurship,ENTR 490
+Entrepreneurship,An Introduction to Innovation: Tools for Career Success,ENTR 500
+Entrepreneurship,"Compensation, Funding and Ownership",ENTR 510
+Entrepreneurship,Technology-Inspired Business Models,ENTR 520
+Entrepreneurship,Innovation and Intellectual Property Strategy,ENTR 530/540
+Entrepreneurship,Interpersonal Skills: Leveling Up to Leadership,ENTR 550
+Entrepreneurship,Special Topics in Entrepreneurship,ENTR 599
+Mechanical Engineering,Introduction to Solid Mechanics,MECHENG 211
+Mechanical Engineering,Thermodynamics,MECHENG 235
+Mechanical Engineering,Introduction to Dynamics and Vibrations,MECHENG 240
+Mechanical Engineering,Design and Manufacturing 1,MECHENG 250
+Mechanical Engineering,"RISE 2- Research, Innovation, Service and Entrepreneurship ",MECHENG 290
+Mechanical Engineering,Introduction to Finite Elements in Mechanical Engineering,MECHENG 305
+Mechanical Engineering,Strength of Materials,MECHENG 311
+Mechanical Engineering,Fluid Mechanics 1,MECHENG 320
+Mechanical Engineering,Heat Transfer,MECHENG 335
+Mechanical Engineering,Thermodynamics 2,MECHENG 336
+Mechanical Engineering,Design and Manufacturing 2,MECHENG 350
+Mechanical Engineering,"Modeling, Analysis and Control of Dynamic Systems",MECHENG 360
+Mechanical Engineering,Mechanical Behavior of Materials,MECHENG 382
+Mechanical Engineering,"RISE 3- Research, Innovation, Service and Entrepreneurship",MECHENG 390
+Mechanical Engineering,Laboratory 1,MECHENG 395
+Mechanical Engineering,Mechanical Engineering Analysis,MECHENG 400
+Mechanical Engineering,Statistical Quality Control and Design,MECHENG 401
+Mechanical Engineering,Biomechanics for Engineering Students,MECHENG 406
+Mechanical Engineering,Advanced Stregnth of Materials,MECHENG 412
+Mechanical Engineering,Fluid Mechanics 2,MECHNEG 420
+Mechanical Engineering,Engineering Acoustics,MECHENG 424/BME 424
+Mechanical Engineering,Combustion,MECHENG 432
+Mechanical Engineering,Advanced Energy Solutions,MECHENG 433
+Mechanical Engineering,Internal Combustion Engines,MECHENG 438
+Mechanical Engineering,Intermediate Dynamics and Vibrations,MECHENG 440
+Mechanical Engineering,Design and Manufacturing 3,MECHENG 450
+Mechanical Engineering,Properties of Advanced Materials for Design Engineers,MECHENG 451
+Mechanical Engineering,Design for Manufacturability,MECHENG 452
+Mechanical Engineering,Analytical Product Design,MECHENG 455
+Mechanical Engineering,Tissue Mechanics,MECHENG 456
+Mechanical Engineering,Automotive Engineering,MECHENG 458
+Mechanical Engineering,Automatic Control,MECHENG 461
+Mechanical Engineering,Biofluid Mechanics,MECHENG 476
+Mechanical Engineering,Manufacturing Processes ,MECHENG 481
+Mechanical Engineering,Machining Processes,MECHENG 482
+Mechanical Engineering,Manufacturing System Design,MECHENG 483
+Mechanical Engineering,Welding,MECHENG 487
+Mechanical Engineering,Sustainable Engineering and Design,MECHENG 489
+Mechanical Engineering,"Rise 4- Research, Innovation, Service and Entrepreneurship",MECHENG 490
+Mechanical Engineering,Independent Study,MECHENG 491
+Mechanical Engineering,Laboratory 2,MECHENG 495
+Mechanical Engineering,Special Topics in Mechanical Engineering,MECHENG 499
+Mechanical Engineering,Mathematical Methods in Mechanical Engineering,MECHENG 501
+Mechanical Engineering,Methods of Differential Equations in Mechanics,MECHENG 502
+Mechanical Engineering,Finite Element Methods in Mechanical Engineering,MECHENG 505
+Mechanical Engineering,Computational Modeling of Biological Tissues,MECHENG 506
+Mechanical Engineering,Atomistic Computer Modeling of Materials,MECHENG 507
+Mechanical Engineering,Theory of Solid Continua,MECHENG 511
+Mechanical Engineering,Theory of Elasticity,MECHENG 512
+Mechanical Engineering,Automotive Body Structures,MECHENG 513
+Mechanical Engineering,Nonlinear Fracture Mechanics,MECHENG 514
+Mechanical Engineering,Contact Mechanics,MECHENG 515
+Mechanical Engineering,Mechanics of Thin Films and Layered Materials,MECHENG 516
+Mechanical Engineering,Mechanics of Polymers 1,MECHENG 517
+Mechanical Engineering,"Composite Materials: Mechanics, Manufacturing and Design",MECHENG 518
+Mechanical Engineering,Theory of Plasticity 1,MECHENG 519
+Mechanical Engineering,Advanced Fluid Mechanics 2,MECHENG 521
+Mechanical Engineering,Computational Fluid Dynamics 1,MECHENG 523
+Mechanical Engineering,Advanced Engineering Acoustics,MECHENG 524
+Mechanical Engineering,Multiphase Flow,MECHENG 527
+Mechanical Engineering,Advanced Heat Transfer,MECHENG 533
+Mechanical Engineering,Convection Heat Transfer,MECHENG 532
+Mechanical Engineering,Radiative Heat Transfer,MECHENG 533
+Mechanical Engineering,Thermodynamics 3,MECHENG 535
+Mechanical Engineering,Advanced Combustion,MECHENG 537
+Mechanical Engineering,Advanced Internal Combustion Engines,MECHENG 538
+Mechanical Engineering,Heat Transfer Physics,MECHENG 539
+Mechanical Engineering,Intermediate Dynamics,MECHENG 540
+Mechanical Engineering,Mechanical Vibrations,MECHENG 541
+Mechanical Engineering,Vehicle Dynamics,MECHENG 542
+Mechanical Engineering,Analytical and Computational Dynamics 1,MECHENG 543
+Mechanical Engineering,Applied Nonlinear Dynamics,MECHENG 548
+Mechanical Engineering,Mechatronic Systems Design,MECHENG 552
+Mechanical Engineering,Microelectromechanical Systems,MECHENG 553
+Mechanical Engineering,Computer Aided Design Methods,MECHENG 554
+Mechanical Engineering,Design Optimization,MECHENG 555
+Mechanical Engineering,Discrete Design Optimization,MECHENG 558
+Mechanical Engineering,Smart Materials and Structures,MECHENG 559
+Mechanical Engineering,Modeling Dynamic Systems,MECHENG 560
+Mechanical Engineering,Design and Digital Control Systems,MECHENG 561
+Mechanical Engineering,Dynamic Behavior of Thermal-Fluid Processes,MECHENG 562
+Mechanical Engineering,"Time Series Modeling, Analysis, Forecasting",MECHENG 563
+Mechanical Engineering,Linear Systems Theory,MECHENG 564
+Mechanical Engineering,Battery Systems and Control,MECHENG 565
+Mechanical Engineering,"Modeling, Analysis and Control of Hybrid Electric Vehicles",MECHENG 566
+Mechanical Engineering,Robot Kinematics and Dynamics,MECHENG 567
+Mechanical Engineering,Vehicle Control Systems,MECHENG 568
+Mechanical Engineering,Control of Advanced Powertrain Systems,MECHENG 569
+Mechanical Engineering,Energy Generation and Storage Using Modern Materials,MECHENG 571
+Mechanical Engineering,Rheology and Fracture,MECHENG 572
+Mechanical Engineering,Friction and Wear,MECHENG 573
+Mechanical Engineering,Nano/Micro Structure Evolution,MECHENG 574
+Mechanical Engineering,Fatigue in Mechanical Design,MECHENG 576
+Mechanical Engineering,Use of Materials and Their Selection in Design,MECHENG 577
+Mechanical Engineering,Transport Phenomena in Materials Processing,MECHENG 580
+Mechanical Engineering,Global Product Development,MECHENG 581
+Mechanical Engineering,Metal-Forming Plasticity,MECHENG 582
+Mechanical Engineering,Advanced Mechatronics for Manufacturing,MECHENG 584
+Mechanical Engineering,Machining Dynamics and Mechanics,MECHENG 585
+Mechanical Engineering,Laser Materias Processing,MECHENG 586
+Mechanical Engineering,Global Manufacturing,MECHENG 587
+Mechanical Engineering,Assembly Modeling for Design and Manufacturing,MEHCENG 588
+Mechanical Engineering,Sustainable Design of Technology Systems,MECHENG 589
+Mechanical Engineering,Study or Research in Selected Mechanical Engineering Topics,MECHENG 590
+Mechanical Engineering,Special Topics in Mechanical Engineering,MECHENG 599
+Mechanical Engineering,Advanced Finite Element Methods in Mechanics,MECHENG 605
+Mechanical Engineering,Mechanics of Polymers 2,MECHENG 617
+Mechanical Engineering,Theory of Plasticity 2,MECHENG 619
+Mechanical Engineering,Inviscid Fluids,MECHENG 622
+Mechanical Engineering,Hydrodynamic Stability,MECHENG 623
+Mechanical Engineering,Turbulent Flow,MECHENG 624
+Mechanical Engineering,Nonhomogeneous Fluids,MECHENG 625
+Mechanical Engineering,Pertubation Methods for Fluids,MECHENG 626
+Mechanical Engineering,Wave Motion in Fluids,MECHENG 627
+Mechanical Engineering,Statistical Thermodynamics,MECHENG 631
+Mechanical Engineering,Thermodynamics 4,MECHENG 635
+Mechanical Engineering,Advanced Vibrations of Structures,MECHENG 641
+Mechanical Engineering,Analytical and Computational Dynamics 2,MECHENG 643
+Mechanical Engineering,Wave Propagation in Elastic Solids,MECHENG 645
+Mechanical Engineering,Mechanics of Human Movement,MECHENG 646
+Mechanical Engineering,Nonlinear Oscillations and Stability of Mechanical Systems,MECHENG 648
+Mechanical Engineering,Random Vibrations,MECHENG 649
+Mechanical Engineering,Adaptive Control Systems,MECHENG 661
+Mechanical Engineering,Advanced Nonlinear Control,MECHENG 662
+Mechanical Engineering,Estimation of Stichastic Signals and Systems,MECHENG 663
+Mechanical Engineering,Master's Thesis Research,MECHENG 695
+Mechanical Engineering,Advanced Special Topics in Mechanical Engineering,MECHENG 699
+Electrical Engineering and Computer Science,Thriving in a Digital World,EECS 101
+Electrical Engineering and Computer Science,Elementary Programming Concepts,EECS 183
+Electrical Engineering and Computer Science,Discrete Mathematics,EECS 203
+Electrical Engineering and Computer Science,Introduction to Electronic Circuits,EECS 215
+Electrical Engineering and Computer Science,Introduction to Signals and Systems,EECS 216
+Electrical Engineering and Computer Science,Electromagnetics 1,EECS 230
+Electrical Engineering and Computer Science,Electronic Sensing Systems,EECS 250
+Electrical Engineering and Computer Science,Introduction to Logic Design,EECS 270
+Electrical Engineering and Computer Science,Programming and Introductory Data Structures,EECS 280
+Electrical Engineering and Computer Science,Data Structures and Algorithms,EECS 281
+Electrical Engineering and Computer Science,Information Systems Design and Programming,EECS 282
+Electrical Engineering and Computer Science,A Programming Language or Computer System,EECS 285
+Electrical Engineering and Computer Science,Probabilitics Methods in Engineering,EECS 301
+Electrical Engineering and Computer Science,Analog Circuits,EECS 311
+Electrical Engineering and Computer Science,Digital Integrated Circuits,EECS 312
+Electrical Engineering and Computer Science,"Electrical Circuits, Systems and Applications",EECS 314
+Electrical Engineering and Computer Science,Introduction to Semiconductor Devices,EECS 320
+Electrical Engineering and Computer Science,Electromagnetics 2,EECS 330
+Electrical Engineering and Computer Science,Principles of Optics,EECS 334
+Electrical Engineering and Computer Science,Introduction to Digital Signal Processing,EECS 351
+Electrical Engineering and Computer Science,Introduction to Computer Organization,EECS 370
+Electrical Engineering and Computer Science,Design of Microprocessor Based Systems,EECS 373
+Electrical Engineering and Computer Science,Foundations of Computer Science,EECS 376
+Electrical Engineering and Computer Science,Object Oriented and Advanced Programming,EECS 381
+Electrical Engineering and Computer Science,Internet-Scale Computing,EECS 382
+Electrical Engineering and Computer Science,Introduction to Computer Security,EECS 388
+Electrical Engineering and Computer Science,Special Topics,EECS 398
+Electrical Engineering and Computer Science,Directed Study,EECS 399
+Electrical Engineering and Computer Science,Computer Programming for Scientists and Engineers,EECS 402
+Electrical Engineering and Computer Science,High-Tech Entrepreneurship,EECS 406
+Electrical Engineering and Computer Science,Patent Fundamentals for Engineers,EECS 410/ENGR 410
+Electrical Engineering and Computer Science,Microwave Circuits 1,EECS 411
+Electrical Engineering and Computer Science,Monolithic Amplifier Circuits,EECS 413
+Electrical Engineering and Computer Science,Introduction to MEMS,EECS 414
+Electrical Engineering and Computer Science,Electrical Biophysics,EECS 417
+Electrical Engineering and Computer Science,Power Electronics,EECS 418
+Electrical Engineering and Computer Science,Electric Machinery and Drives,EECS 419
+Electrical Engineering and Computer Science,Properties of Transistors,EECS 421
+Electrical Engineering and Computer Science,Solid-State Device Laboratory,EECS 423
+Electrical Engineering and Computer Science,Integrated Microsystems Laboratory,EECS 425
+Electrical Engineering and Computer Science,VLSI Design 1,EECS 427
+Electrical Engineering and Computer Science,Semiconductor Optoelectronic Devices,EECS 429
+Electrical Engineering and Computer Science,Radiowave Propagation and Link Design,EECS 430
+Electrical Engineering and Computer Science,Principles of Photonics,EECS 434
+Electrical Engineering and Computer Science,Fourier Optics,EECS 435
+Electrical Engineering and Computer Science,Advanced Lasers and Optics Laboratory,EECS 438
+Electrical Engineering and Computer Science,Mobile App Development for Entrepreneurs,EECS 441
+Electrical Engineering and Computer Science,Computer Vision,EECS 442
+Electrical Engineering and Computer Science,Senior Thesis,EECS 443
+Electrical Engineering and Computer Science,Introduction to Machine Learning,EECS 445
+Electrical Engineering and Computer Science,Digital Signal Processing Design Laboratory,EECS 452
+Electrical Engineering and Computer Science,"Applied Matrix Algorithms for Signal Processing, Data Analysis and Machine Learning",EECS 453
+Electrical Engineering and Computer Science,Digital Communication Signals and Systems,EECS 455
+Electrical Engineering and Computer Science,Biomedical Instrumentation and Design,EECS 458
+Electrical Engineering and Computer Science,Control Systems Analysis and Design,EECS 460
+Electrical Engineering and Computer Science,Embedded Control Systems,EECS 461
+Electrical Engineering and Computer Science,Power Systems Design and Operation,EECS 463
+Electrical Engineering and Computer Science,Autonomous Robotics,EECS 467
+Electrical Engineering and Computer Science,Computer Architecture,EECS 470
+Electrical Engineering and Computer Science,Advanced Embedded Systems,EECS 473
+Electrical Engineering and Computer Science,Introduction to Cryptography,EECS 475
+Electrical Engineering and Computer Science,Introduction to Algorithms,EECS 477
+Electrical Engineering and Computer Science,Logic Circuit Synthesis and Optimization,EECS 478
+Electrical Engineering and Computer Science,Logic and Formal Verification,EECS 480
+Electrical Engineering and Computer Science,Software Engineering,EECS 481
+Electrical Engineering and Computer Science,Introduction to Operating Systems,EECS 482
+Electrical Engineering and Computer Science,Compiler Construction,EECS 483
+Electrical Engineering and Computer Science,Database Management Systems,EECS 484
+Electrical Engineering and Computer Science,Web Database and Information Systems,EECS 485
+Electrical Engineering and Computer Science,Informational Retrieval and Web Search,EECS 486
+Electrical Engineering and Computer Science,Interactive Computer Graphics,EECS 487
+Electrical Engineering and Computer Science,Computer Networks,EECS 489
+Electrical Engineering and Computer Science,Programming Languages,EECS 490
+Electrical Engineering and Computer Science,Introduction to Artificial Intelligence,EECS 492
+Electrical Engineering and Computer Science,User Interface Development,EECS 493
+Electrical Engineering and Computer Science,Computer Game Design and Developmnet,EECS 494
+Electrical Engineering and Computer Science,Major Design Experience Professionalism,EECS 496
+Electrical Engineering and Computer Science,EECS Major Design Projects,EECS 497
+Electrical Engineering and Computer Science,Special Topics,EECS 498
+Electrical Engineering and Computer Science,Directed Study,EECS 499
+Electrical Engineering and Computer Science,Tutorial Lectures Series in Systems Science,EECS 500
+Electrical Engineering and Computer Science,Probability and Random Processes,EECS 501
+Electrical Engineering and Computer Science,Stochastic Processes,EECS 502
+Electrical Engineering and Computer Science,Introduction to Numerical Electromagnetics,EECS 503
+Electrical Engineering and Computer Science,Foundations of Computer Vision,EECS 504
+Electrical Engineering and Computer Science,BioMEMS,EECS 509
+Electrical Engineering and Computer Science,RF MEMS ,EECS 510
+Electrical Engineering and Computer Science,Integrated Analog/Digital Interface Circuits,EECS 511
+Electrical Engineering and Computer Science,Amrphous and Microcrystalline Semiconductor Thin Film Devices,EECS 512
+Electrical Engineering and Computer Science,Flat Panel Displays,EECS 513
+Electrical Engineering and Computer Science,Advanced MEMS Devices and Technologies,EECS 514
+Electrical Engineering and Computer Science,Integrated Microsystems,EECS 515
+Electrical Engineering and Computer Science,Medical Imaging Systems,EECS 516
+Electrical Engineering and Computer Science,Physical Processes in Plasmas,EECS 517
+Electrical Engineering and Computer Science,Magnetosphere and Solar Wind,EECS 518
+Electrical Engineering and Computer Science,Plasma Generation and Diagnostics Laboratory,EECS 519
+Electrical Engineering and Computer Science,Solid State Devices,EECS 521
+Electrical Engineering and Computer Science,Analog Integrated Circuits,EECS 522
+Electrical Engineering and Computer Science,Digital Integrated Technology,EECS 523
+Electrical Engineering and Computer Science,Advanced Solid State Microwave Circuits,EECS 525
+Electrical Engineering and Computer Science,Plasmonics,EECS 526
+Electrical Engineering and Computer Science,Layout Synthesis and Optimization,EECS 527
+Electrical Engineering and Computer Science,Principles of Microelectronics Process Technology,EECS 528
+Electrical Engineering and Computer Science,Semiconductor Lasers and LEDs,EECS 529
+Electrical Engineering and Computer Science,Electromagnetic Theory 1,EECS 530
+Electrical Engineering and Computer Science,Antenna Theory and Design,EECS 531
+Electrical Engineering and Computer Science,Microwave Remote Sensing 1: Radiometry,EECS 532
+Electrical Engineering and Computer Science,Microwave Measurements Laboratory,EECS 533
+Electrical Engineering and Computer Science,Design and Characterization of Microwave Devices and Monolithic Circuits,EECS 534
+Electrical Engineering and Computer Science,Optical Information Processing,EECS 535
+Electrical Engineering and Computer Science,Classical Statistical Optics,EECS 536
+Electrical Engineering and Computer Science,Classical Optics,EECS 537
+Electrical Engineering and Computer Science,Optical Waves in Crystals,EECS 538
+Electrical Engineering and Computer Science,Lasers ,EECS 539
+Electrical Engineering and Computer Science,Applied Quantum Mechanics 1,EECS 540
+Electrical Engineering and Computer Science,Applied Quantum Mechanics 2,EECS 541
+Electrical Engineering and Computer Science,Advanced Topics in Computer Vision,EECS 542
+Electrical Engineering and Computer Science,Knowledge-Based Systems,EECS 543
+Electrical Engineering and Computer Science,Machine Learning,EECS 545
+Electrical Engineering and Computer Science,Ultrafast Optics,EECS 546
+Electrical Engineering and Computer Science,Electronic Commerce,EECS 547
+Electrical Engineering and Computer Science,Information Visualization,EECS 548
+Electrical Engineering and Computer Science,Information Retrieval,EECS 549
+Electrical Engineering and Computer Science,Information Theory,EECS 550
+Electrical Engineering and Computer Science,"Matrix Methods for Signaling Processing, Stata Analysis and Machine Learning",EECS 551
+Electrical Engineering and Computer Science,Fiber Optics: Internet to Biomedical Applications,EECS 552
+Electrical Engineering and Computer Science,Theory and Practice of Data Compression,EECS 553
+Electrical Engineering and Computer Science,Introduction to Digial Communication and Coding,EECS 554
+Electrical Engineering and Computer Science,Digital Communication Theory,EECS 555
+Electrical Engineering and Computer Science,Image Processing ,EECS 556
+Electrical Engineering and Computer Science,Communication Networks,EECS 557
+Electrical Engineering and Computer Science,Stochastic Control,EECS 558
+Electrical Engineering and Computer Science,Advanced Signal Processing,EECS 559
+Electrical Engineering and Computer Science,Linear Systems Theory,EECS 560
+Electrical Engineering and Computer Science,Design of Digital Control Systems,EECS 561
+Electrical Engineering and Computer Science,Nonlinear Systems and Control,EECS 562
+Electrical Engineering and Computer Science,"Estimation, Filtering and Detection",EECS 564
+Electrical Engineering and Computer Science,Linear Feedback Control Systems,EECS 565
+Electrical Engineering and Computer Science,Discrete Even Systems,EECS 566
+Electrical Engineering and Computer Science,Robot Kinematics and Dynamics,EECS 567
+Electrical Engineering and Computer Science,Mobile Robotics: Methods and Algrothims,EECS 568
+Electrical Engineering and Computer Science,Production Systems Engineering,EECS 569
+Electrical Engineering and Computer Science,Parallel Computer Architecture,EECS 570
+Electrical Engineering and Computer Science,Principles of Real-Time Computing,EECS 571
+Electrical Engineering and Computer Science,Microarchitecture,EECS 573
+Electrical Engineering and Computer Science,Computational Complexity,EECS 574
+Electrical Engineering and Computer Science,Advanced Cryptography,EECS 575
+Electrical Engineering and Computer Science,Correct Operation for Processors and Embedded Systems,EECS 578
+Electrical Engineering and Computer Science,Digital System Testing,EECS 579
+Electrical Engineering and Computer Science,Advanced Computer Graphics,EECS 580
+Electrical Engineering and Computer Science,Software Engineering Tools,EECS 581
+Electrical Engineering and Computer Science,Advanced Operating Systems,EECS 582
+Electrical Engineering and Computer Science,Advanced Compliers,EECS 583
+Electrical Engineering and Computer Science,Advanced Database Systems,EECS 584
+Electrical Engineering and Computer Science,Design and Analysis of Algorithms,EECS 586
+Electrical Engineering and Computer Science,Parallel Computing,EECS 587
+Electrical Engineering and Computer Science,Computer and Network Security,EECS 588
+Electrical Engineering and Computer Science,Advanced Computer Networks,EECS 589
+Electrical Engineering and Computer Science,Advanced Programming Languages,EECS 590
+Electrical Engineering and Computer Science,Distributed Systems,EECS 591
+Electrical Engineering and Computer Science,Foundations of Artificial Intelligence,EECS 592
+Electrical Engineering and Computer Science,Introduction to Adaptive Systems,EECS 594
+Electrical Engineering and Computer Science,Natural Language Processing,EECS 595
+Electrical Engineering and Computer Science,Master of Engineering Team Project,EECS 596
+Electrical Engineering and Computer Science,Language and Information,EECS 597
+Electrical Engineering and Computer Science,Special Topics in Electrical Engineering and Computer Science,EECS 598
+Electrical Engineering and Computer Science,Function Space Methods in System Theory,EECS 600
+Electrical Engineering and Computer Science,Electronic and Optical Properties of Semiconductors,EECS 620
+Electrical Engineering and Computer Science,VLSI Design 2,EECS 627
+Electrical Engineering and Computer Science,Advanced High Performance VLSI Design,EECS 628
+Electrical Engineering and Computer Science,Electromagnetic Scattering,EECS 631
+Electrical Engineering and Computer Science,Microwave Remote Sensing 2- Radar,EECS 632
+Electrical Engineering and Computer Science,Numerical Methods in Electromagnetics,EECS 633
+Electrical Engineering and Computer Science,Nonlinear Optics,EECS 634
+Electrical Engineering and Computer Science,Quantum Theory of Light,EECS 638
+Electrical Engineering and Computer Science,Theory of Neural Computation,EECS 643
+Electrical Engineering and Computer Science,Computational Modeling of Cognition,EECS 644
+Electrical Engineering and Computer Science,Channel Coding Theory,EECS 650
+Electrical Engineering and Computer Science,Adaptive Signal Processing,EECS 659
+Electrical Engineering and Computer Science,Advanced Nonlinear Control,EECS 662
+Electrical Engineering and Computer Science,Special Topics in Computer Architecture,EECS 670
+Electrical Engineering and Computer Science,Special Topics in Theoretical Computer Science,EECS 674
+Electrical Engineering and Computer Science,Special Topics in Databases,EECS 684
+Electrical Engineering and Computer Science,Mobile Computing,EECS 691
+Electrical Engineering and Computer Science,Advanced Artificial Intelligence,EECS 692
+Electrical Engineering and Computer Science,Neural Models and Psychological Processes,EECS 695/PSYCH 740
+Electrical Engineering and Computer Science,Master's Thesis,EECS 698
+Electrical Engineering and Computer Science,Research Work in Electrical Engineering and Computer Science,EECS 699
+Engineering,Introduction to Engineering,ENGR 100
+Engineering,Introduction to Computers and Programming,ENGR 101
+Engineering,Design Your Engineering Experience,ENGR 110
+Engineering,Accelerated Introduction to Computers and Programming,ENGR 151
+Engineering,Special Topics in Engineering,ENGR 190
+Engineering,Outreach Internship,ENGR 196
+Engineering,Introductory Multidisciplinary Engineering Engineering Project,ENGR 255
+Engineering,Peer Mentorship in Engineering Design,ENGR 256
+Engineering,Engineering Across Cultures,ENGR 260
+Engineering,Undergraduate Research,ENGR 280
+Engineering,Special Topics in Engineering,ENGR 290
+Engineering,Introduction to Design Processes,ENGR 345
+Engineering,International Laboratory Experience for Engineers,ENGR 350
+Engineering,Engineering Design Practice,ENGR 354
+Engineering,Intermediate Multidiscipplinary Engineering Project,ENGR 355
+Engineering,Numerical Methods for Engineers and Scientists,ENGR 371
+Engineering,Special Topics Engineering,ENGR 390
+Engineering,Engineering Cooperative Education,ENGR 400
+Engineering,Scientific Visualization,ENGR 403
+Engineering,Problem Solving and Troubleshooting in the Workplace,ENGR 405
+Engineering,High-tech Entrprensurship ,ENGR 406
+Engineering,Patent Fundamentals for Engineers,ENGR 410
+Engineering,Multidiciplinary Design,ENGR 450
+Engineering,Advanced Multidisciplinary Engineering Project,ENGR 455
+Engineering,Mentorship-Leadership in Multidisciplinary Design,ENGR 456
+Engineering,Global Synthesis Project,ENGR 480
+Engineering,Special Topics Engineering,ENGR 490
+Engineering,Entrepreneurial Business Fundamentals for Engineers & Scientists,ENGR 520
+Engineering,Clean Tech Entrpreneurship,ENGR 521
+Engineering,Business of Biology,ENGR 523/ BA 518
+Engineering,Teaching Engineering,ENGR 580
+Engineering,International Experience in Engineering,ENGR 590
+Engineering,Special Topics Engineering,ENGR 599
+Engineering,Engineering Practicum Projects,ENGR 600
+Accounting,Internediate Financial Accounting,ACC 312
+Accounting,Managerial Accounting,ACC 301
+Accounting,Managing the Maize and Blue Funf,ACC 335/336/725
+Accounting,Independent Study Project,ACC 399
+Accounting,Princiles of Financial Accounting,ACC 501/502/591
+Accounting,Management Accounting,ACC 552/593
+Accounting,Managing the Maize and Blue Fund as a Senior Analyst,ACC 338/728
+Accounting,Principles of Managerial Accounting,ACC 551
+Accounting,Financial Accounting ,ACC 300
+Accounting,Financial Statement Analysis,ACC 318
+Accounting,Federal Taxation and Managerial Decisions,ACC 317/560
+Accounting,Cost Accounting,ACC 315
+Accounting,Acounting Principles,ACC 471
+Accounting,Corporate Financial Research and Reporting,ACC 555
+Accounting,Corporate Financial Reporting,ACC 564
+Accounting,Evaluating Financial Performance,ACC 557
+Accounting,Federal Taxation 1,ACC 561
+Accounting,Federal Taxation 2,ACC 620
+Accounting,Financial Communication and Investor Relations,ACC 618
+Accounting,Financial Instruments and Structured Finance,ACC 565
+Accounting,Cost Management Systems,ACC 650
+Accounting,Auditing and Assurance,ACC 630
+Accounting,Advanced Financial Accounting,ACC 624
+Accounting,Advanced Management Accounting,ACC 640
+Accounting,Accounting Information System Design,ACC 601
+Accounting,Cost Measurement & Control,ACC 558
+Accounting,Financial Statement Analysis 1,ACC 711
+Accounting,Financial Statement Analysis 2,ACC 713
+Business Administration,Accelerating Your Management Consulting Skills,BA 635
+Business Administration,Action Learning Project,BA 453
+Business Administration,Advanced Business French,BA 415
+Business Administration,American Business History,BA 476
+Business Administration,Business Strategies for the Base of the Pyramid,BA 612
+Business Administration,Business Thought and Action,BA 200
+Business Administration,Development Seminar ,BA 101
+Business Administration,Doing Business in German,BA 499
+Business Administration,Independent Study Project,BA 399/750
+Business Administration,International Business Immersion,BA 685
+Business Administration,Map 1,BA 591
+Business Administration,MM-SJTU Cable Prof,BA 557
+Business Administration,Multidisciplinary Action Projects- MAP,BA 553
+Business Administration,World of Business,BA 100
+Economics,Principles of Economics 1,ECON 101
+Economics,Principles of Economics 2,ECON 102
+Economics,Introductory Microeconomics Workshop,ECON 108
+Economics,Intermediate Microeconomics Workshop,ECON 208
+Economics,Introduction to Statistics and Econometrics 2,ECON 251
+Economics,Money and Banking,ECON 310
+Economics,Survey of Labor Economics,ECON 320
+Economics,Economics and Gender,ECON 323
+Economics,Economics of Education,ECON 325
+Economics,International Economics,ECON 340
+Economics,Environmental and Resource Economics,ECON 370
+Economics,Intermediate Microeconomic Theory,ECON 401
+Economics,Intermediate Macroeconomic Theory,ECON 402
+Economics,Game Theory,ECON 409
+Economics,Topics in Microeconomics,ECON 412
+Economics,The Structure of Labor Markets,ECON 422
+Economics,Industrial Organization and Performance,ECON 431
+Economics,International Trade Theory,ECON 441
+Economics,International Finanace,ECON 442
+Economics,Intermediate Introduction to Statistics and Econometrics 1,ECON 451
+Economics,Intermediate Introduction to Statistics and Econometrics 2,ECON 452
+Economics,Economics of Population,ECON 466
+Economics,Law and Economics,ECON 485
+Economics,Topics in Microeconomics,ECON 490
+Economics,The History of the American Economy,ECON 491
+Economics,Seminar in Economics,ECON 495
+Economics,Independent Research ,ECON 498/ 499
+Economics,Quantitative Methods,ECON 500
+Economics,Microeconomic Theory,ECON 501
+Economics,Probability and Mathematical Statistics ,ECON 503
+Economics,International Trade Policy,ECON 541
+Economics,Math for Economists,ECON 600
+Economics,Microeconomic Theory 1,ECON 601
+Economics,Microeconomic Theory 3,ECON 603
+Economics,Macroeconomic Theory 1,ECON 605
+Economics,Stabilization Policy,ECON 611
+Economics,Game Theory,ECON 617
+Economics,Labor Economics 1,ECON 621
+Economics,Industrial Organization and Public Policy,ECON 631
+Economics,International Trade Theory,ECON 641
+Economics,Emperical Asset Pricing,ECON 651
+Economics,Topics in World Economic History 1,ECON 663
+Economics,Ecenomic Development of Undeveloped Countries,ECON 665
+Economics,Econometric Analysis 1,ECON 671
+Economics,Applied Microeconometrics,ECON 675
+Economics,Advanced Econometrics 1,ECON 678
+Economics,Government Expenditures ,ECON 683
+Economics,Introduction to Economic Research 1,ECON 696
+Economics,Research,ECON 700
