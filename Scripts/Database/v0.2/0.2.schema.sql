@@ -1,0 +1,13 @@
+SET NOCOUNT ON
+
+IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'DocumentCategories')
+BEGIN
+	PRINT 'Creating DocumentCategories table'
+	CREATE TABLE [dbo].[DocumentCategories] (
+		Id BIGINT CONSTRAINT PK_DokumentCategories_Id PRIMARY KEY IDENTITY(1,1) NOT NULL,
+		Name NVARCHAR(50) NOT NULL,
+		)
+END
+GO
+
+SET NOCOUNT OFF
