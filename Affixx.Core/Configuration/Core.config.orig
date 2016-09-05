@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="environment" value="development" />
+		<add key="database1" value="Data Source=.; Database=Affixx; Integrated Security=True;" />
+		<add key="database" value="Data Source=SQL5019.Smarterasp.net;Initial Catalog=DB_9E594F_affixx;User Id=DB_9E594F_affixx_admin;Password=db_9e594f_affixx;" />
+	</appSettings>
+</configuration>

@@ -1,0 +1,29 @@
+﻿<#@ assembly name="$(SolutionDir)\\Affixx.Core\\bin\\Debug\\Affixx.Core.dll" #>
+
+<#+
+string Namespace = "";
+string ResourceType = "";
+string ConnectionString = "";
+string SchemaName = null;
+bool IncludeViews = false;
+
+/// <summary>
+/// Loads all tables from the database.
+/// </summary>
+Affixx.Core.Database.Generator.Tables LoadTables()
+{
+	try {
+		return Affixx.Core.Database.Generator.Tables.Load(ConnectionString, SchemaName, IncludeViews);
+	}
+	catch (Exception ex){
+		var error = ex.Message.Replace("\r\n", "\n").Replace("\n", " ");
+		Warning(string.Format("Failed to load objects from the database - {0}", error));
+		WriteLine("");
+		WriteLine("// -----------------------------------------------------------------------------------------");
+		WriteLine("// Unexpected error - {0}", error);
+		WriteLine("// -----------------------------------------------------------------------------------------");
+		WriteLine("");
+		return new Affixx.Core.Database.Generator.Tables();
+	}
+}
+#>

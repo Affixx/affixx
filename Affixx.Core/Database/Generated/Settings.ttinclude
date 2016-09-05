@@ -1,0 +1,12 @@
+<#@ assembly name="$(ProjectDir)\\bin\\Debug\\Affixx.Core.dll" #>
+
+<#+
+
+string Namespace = "Affixx.Core.Database.Generated";
+string ResourceType = "Resources.Database"; //requires a Database.resx file 
+
+string ConnectionString = "Data Source=.;Initial Catalog=Affixx;Integrated Security=True";
+string SchemaName = null;
+bool IncludeViews = false;
+
+#>

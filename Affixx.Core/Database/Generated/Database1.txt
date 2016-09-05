@@ -1,0 +1,13 @@
+﻿
+
+
+
+Multiple file generation is based on an awesome T4 template manager from Damien Guard.
+See more at http://damieng.com/blog/2009/11/06/multiple-outputs-from-t4-made-easy-revisited
+
+Unfortunately, SingleFileGenerator insists on creating the original 'Database.[ext]' file
+so the best thing one can do here is to give it a 'txt' extension and errors there, if they pop up!
+
+
+	
+

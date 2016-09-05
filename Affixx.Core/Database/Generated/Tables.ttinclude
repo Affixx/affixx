@@ -1,0 +1,85 @@
+﻿<#@ assembly name="System.Data.dll" #>
+<#@ import namespace="System.Data" #>
+using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace <#=Namespace #>
+{
+// ReSharper disable InconsistentNaming
+// ReSharper disable PartialTypeWithSinglePart
+// ReSharper disable ConditionIsAlwaysTrueOrFalse
+		public abstract class TableEntity
+		{
+			internal abstract void EntitySetId(long id);
+
+			internal abstract string EntityInsertSql { get; }
+			internal abstract string EntityUpdateSql { get; }
+
+			public abstract long Id { get; set; }
+		}
+
+<# foreach(var table in tables.Where(x => !x.Ignore))	{ #>
+		public partial class <#=table.ClassName#> : TableEntity
+		{
+<# foreach(var column in table.Columns.Where(x => !x.Ignore && x.PropertyName != "Id")) { #>
+			public <#=column.PropertyType #><#=column.NullableSign()#> <#=column.PropertyName #> { get; set; }
+<# } #>
+<# if (table.PK != null) { #>
+			public override long Id { get; set; }
+
+			internal override void EntitySetId(long id) {  <#=table.PK.Name#> = id; }
+			internal override string EntityInsertSql { get { return "INSERT INTO <#=table.Name#>(<#=table.ColumnNames#>) VALUES (<#=(table.ColumnValues.Count == 1) ? table.ColumnValues[0] : string.Join(", ", table.ColumnValues)#>)";} }
+			internal override string EntityUpdateSql {  get { return "UPDATE <#=table.Name#> SET <#=table.UpdateSql#>"; } }
+<# } else { #>
+			public override long Id 
+			{
+				get { throw new System.NotSupportedException("Unsupported in tables without a primary key."); }
+				set { throw new System.NotSupportedException("Unsupported in tables without a primary key."); }
+			}
+
+			internal override void EntitySetId(long id) {} // do nothing
+			internal override string EntityInsertSql { get { throw new System.NotSupportedException("Unsupported in tables without a primary key."); } }
+			internal override string EntityUpdateSql {  get { throw new System.NotSupportedException("Unsupported in tables without a primary key."); } }
+<# } #>
+
+			public override bool Equals(object other)
+			{
+				if (ReferenceEquals(this, other)) {
+					return true;
+				}
+
+				var entity = other as <#=table.ClassName#>;
+				if (entity == null) {
+					return false;
+				}
+
+<# foreach(var column in table.Columns.Where(x => !x.Ignore)) { #>
+				if (<#=column.PropertyName #> != entity.<#=column.PropertyName #>) {
+					return false;
+				}
+<# } #>
+				return true;
+			}
+
+			public override int GetHashCode()
+			{
+				unchecked {
+					const int randomPrime = 397;
+					int hashCode = Id.GetHashCode();
+<# foreach(var column in table.Columns.Where(x => !x.Ignore && x.PropertyName != "Id")) { #>
+<# if (column.IsNullable || column.PropertyType == "string") { #>
+					hashCode = (hashCode*randomPrime) ^ (<#=column.PropertyName #> != null ? <#=column.PropertyName #>.GetHashCode() : 0);
+<# } else { #>
+					hashCode = (hashCode*randomPrime) ^ <#=column.PropertyName #>.GetHashCode();
+<# } #>
+<# } #>
+					return hashCode;
+				}
+			}
+		}
+		
+<# } #>
+// ReSharper restore ConditionIsAlwaysTrueOrFalse
+// ReSharper restore PartialTypeWithSinglePart
+// ReSharper restore InconsistentNaming
+}
